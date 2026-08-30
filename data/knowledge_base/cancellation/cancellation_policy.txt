@@ -1,0 +1,2 @@
+Cancellation Policy
+An order may be cancelled only while its status is Processing. Support submits the request immediately but cannot guarantee cancellation once warehouse work begins. A cancelled paid order is refunded to the original payment method within 5-7 business days. After dispatch, an order cannot be cancelled or redirected; customers may use the return policy after delivery. A delivered order cannot be cancelled and must be handled as a return or exchange when eligible.

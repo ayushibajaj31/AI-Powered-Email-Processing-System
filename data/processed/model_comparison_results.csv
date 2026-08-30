@@ -1,0 +1,4 @@
+model,accuracy,macro_precision,macro_recall,macro_f1,weighted_precision,weighted_recall,weighted_f1,training_time,inference_time
+Logistic Regression,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.4204139999928884,0.07487100001890212
+Linear SVM,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.18602150000515394,0.021226299984846264
+Multinomial Naive Bayes,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0834298999980092,0.016512800008058548

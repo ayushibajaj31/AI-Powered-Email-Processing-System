@@ -1,0 +1,2 @@
+Supported Payment Methods and Verification
+Northstar Market accepts major credit and debit cards, approved digital wallets, and store credit. Payment is authorized at checkout; a temporary authorization may appear before final capture. Some orders require identity or payment verification to protect customers from fraud. Support never asks for a full card number, card security code, or account password by email.

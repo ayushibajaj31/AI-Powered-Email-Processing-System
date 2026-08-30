@@ -1,0 +1,2 @@
+Delayed, Lost, and Failed Deliveries
+A parcel is considered delayed when it is more than 3 business days beyond its delivery estimate. Support will open a carrier inquiry for a parcel with no tracking movement for 3 business days. A parcel may be treated as lost after the carrier investigation confirms loss or after 10 calendar days without a scan. Carriers make up to 3 delivery attempts. After a failed delivery, customers should contact the carrier or support within 5 calendar days to arrange the next step.

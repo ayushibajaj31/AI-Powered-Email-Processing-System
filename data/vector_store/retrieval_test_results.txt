@@ -1,0 +1,238 @@
+RETRIEVAL TEST RESULTS
+============================================================
+
+Query: Where is my order?
+Expected relevant area: shipping / order tracking
+Result 1: KB_FAQ_001_CHUNK_002
+Score: 0.3715
+Category: faq
+Topic: frequently_asked_questions
+Text: Q: Can I exchange shoes for another size? A: Yes, eligible unused items can be exchanged within 30 calendar days if the requested size is available. Q: My order already shipped. Can I cancel it? A: No. After dispatch, use the return policy after delivery if eligible. Q: I received the wrong item. What should I do? A: Contact support within 7 calendar days with your order number and photos when possible. Q: Does every product have a warranty? A: No.
+Result 2: KB_EXCHANGE_002_CHUNK_001
+Score: 0.3568
+Category: exchange
+Topic: exchange_process
+Text: Exchange Process and Shipping
+Customers request an exchange through support with their order number, requested size, color, or variant, and reason. Support confirms eligibility and reserves replacement stock when possible. The customer receives return instructions. Once the original item is scanned by the carrier, the replacement is dispatched within 1-2 business days.
+Result 3: KB_SUPPORT_001_CHUNK_001
+Score: 0.3425
+Category: support
+Topic: customer_support
+Text: Customer Support and Response Time
+Customers can contact Northstar Market through the support form or reply to an order email. Standard support replies within 1 business day. Questions involving payment security, a damaged or wrong item, a lost package, or an order that must be cancelled before shipment are priority issues and are reviewed within 4 business hours on business days. Include the order number when available to help support investigate.
+Result 4: KB_SHIPPING_001_CHUNK_001
+Score: 0.3104
+Category: shipping
+Topic: order_processing
+Text: Order Processing and Confirmation
+Northstar Market begins processing paid orders within 1-2 business days. Orders placed after 5:00 PM local warehouse time, on weekends, or on public holidays start processing on the next business day. An order-confirmation email is sent immediately after checkout; a shipping-confirmation email with tracking is sent after dispatch. Customers may request changes or cancellation only while an order remains Processing.
+Result 5: KB_SHIPPING_002_CHUNK_001
+Score: 0.2808
+Category: shipping
+Topic: order_tracking
+Text: Order Tracking
+Tracking becomes active within 24 hours after a shipment email is sent. Customers can use the tracking link in that email or their order number in the Northstar Market order page. A scan may not appear every day while a parcel is moving. Contact support if tracking has not changed for 3 business days after dispatch.
+Appears relevant: Yes
+
+Query: Can I exchange my shoes for another size?
+Expected relevant area: exchange
+Result 1: KB_FAQ_001_CHUNK_002
+Score: 0.6773
+Category: faq
+Topic: frequently_asked_questions
+Text: Q: Can I exchange shoes for another size? A: Yes, eligible unused items can be exchanged within 30 calendar days if the requested size is available. Q: My order already shipped. Can I cancel it? A: No. After dispatch, use the return policy after delivery if eligible. Q: I received the wrong item. What should I do? A: Contact support within 7 calendar days with your order number and photos when possible. Q: Does every product have a warranty? A: No.
+Result 2: KB_EXCHANGE_003_CHUNK_001
+Score: 0.3738
+Category: exchange
+Topic: exchange_availability
+Text: Exchange Availability and Exceptions
+A size, color, or product-variant exchange depends on live replacement stock. If the requested item is unavailable, customers may choose a different available variant, a comparable product with payment adjustment, store credit, or a refund under the return policy. For a damaged or wrong item, support can prioritize a replacement when stock exists. Replacement stock is not guaranteed until support confirms the exchange.
+Result 3: KB_EXCHANGE_001_CHUNK_001
+Score: 0.3534
+Category: exchange
+Topic: exchange_policy
+Text: Exchange Policy
+Exchange is separate from a refund return. Eligible unused items may be exchanged within 30 calendar days of delivery for a different size, color, or variant of the same product. The requested replacement must be available. Personalized products, gift cards, and opened hygiene-sensitive beauty items cannot be exchanged unless they arrived damaged or incorrect. An exchange does not create a cash refund unless Northstar Market cannot supply an agreed replacement.
+Result 4: KB_FAQ_001_CHUNK_001
+Score: 0.3256
+Category: faq
+Topic: frequently_asked_questions
+Text: Frequently Asked Questions
+Q: How long does standard shipping take? A: Standard shipping normally takes 3-5 business days after dispatch, plus 1-2 business days for processing. Q: Can I return an item after 20 days? A: Yes, most unused eligible products can be returned within 30 calendar days of delivery. Q: How long does a refund take? A: Inspection normally takes 2 business days after receipt, then the refund is issued within 5-7 business days. Q: Can I exchange shoes for another size?
+Result 5: KB_EXCHANGE_002_CHUNK_001
+Score: 0.3235
+Category: exchange
+Topic: exchange_process
+Text: Exchange Process and Shipping
+Customers request an exchange through support with their order number, requested size, color, or variant, and reason. Support confirms eligibility and reserves replacement stock when possible. The customer receives return instructions. Once the original item is scanned by the carrier, the replacement is dispatched within 1-2 business days.
+Appears relevant: Yes
+
+Query: How long will it take to get my refund?
+Expected relevant area: refund
+Result 1: KB_RETURN_002_CHUNK_001
+Score: 0.6242
+Category: returns
+Topic: refund_policy
+Text: Refund Process and Timing
+After an approved return reaches the warehouse, inspection is normally completed within 2 business days. Approved refunds are issued to the original payment method within 5-7 business days after inspection. A bank or card provider may take additional time to display the credit. Shipping charges are refundable only when Northstar Market made a shipping error, sent the wrong item, or the item was damaged on arrival.
+Result 2: KB_FAQ_001_CHUNK_001
+Score: 0.5712
+Category: faq
+Topic: frequently_asked_questions
+Text: Frequently Asked Questions
+Q: How long does standard shipping take? A: Standard shipping normally takes 3-5 business days after dispatch, plus 1-2 business days for processing. Q: Can I return an item after 20 days? A: Yes, most unused eligible products can be returned within 30 calendar days of delivery. Q: How long does a refund take? A: Inspection normally takes 2 business days after receipt, then the refund is issued within 5-7 business days. Q: Can I exchange shoes for another size?
+Result 3: KB_PAYMENT_002_CHUNK_001
+Score: 0.5328
+Category: payments
+Topic: payment_issues
+Text: Failed, Pending, and Duplicate Payments
+A failed payment does not create a confirmed order. A pending authorization normally clears or becomes a completed payment within 3-5 business days, depending on the bank. Customers who see two completed charges for one order should contact support with the order number and transaction dates; Northstar Market investigates and reverses a confirmed duplicate charge within 5-7 business days. Payment-related refunds return to the original payment method.
+Result 4: KB_RETURN_001_CHUNK_001
+Score: 0.5046
+Category: returns
+Topic: return_policy
+Text: Return Policy and Eligibility
+Most unused products may be returned within 30 calendar days of delivery for a refund. Items must include original accessories and be in resaleable condition. Personalized products, gift cards, and opened hygiene-sensitive beauty items are non-returnable unless they arrive damaged or incorrect. Return approval is required before sending an item back.
+Result 5: KB_CANCEL_001_CHUNK_001
+Score: 0.4737
+Category: cancellation
+Topic: cancellation_policy
+Text: Cancellation Policy
+An order may be cancelled only while its status is Processing. Support submits the request immediately but cannot guarantee cancellation once warehouse work begins. A cancelled paid order is refunded to the original payment method within 5-7 business days. After dispatch, an order cannot be cancelled or redirected; customers may use the return policy after delivery. A delivered order cannot be cancelled and must be handled as a return or exchange when eligible.
+Appears relevant: Yes
+
+Query: I want to cancel my order.
+Expected relevant area: cancellation
+Result 1: KB_CANCEL_001_CHUNK_001
+Score: 0.5450
+Category: cancellation
+Topic: cancellation_policy
+Text: Cancellation Policy
+An order may be cancelled only while its status is Processing. Support submits the request immediately but cannot guarantee cancellation once warehouse work begins. A cancelled paid order is refunded to the original payment method within 5-7 business days. After dispatch, an order cannot be cancelled or redirected; customers may use the return policy after delivery. A delivered order cannot be cancelled and must be handled as a return or exchange when eligible.
+Result 2: KB_FAQ_001_CHUNK_002
+Score: 0.4792
+Category: faq
+Topic: frequently_asked_questions
+Text: Q: Can I exchange shoes for another size? A: Yes, eligible unused items can be exchanged within 30 calendar days if the requested size is available. Q: My order already shipped. Can I cancel it? A: No. After dispatch, use the return policy after delivery if eligible. Q: I received the wrong item. What should I do? A: Contact support within 7 calendar days with your order number and photos when possible. Q: Does every product have a warranty? A: No.
+Result 3: KB_SUPPORT_001_CHUNK_001
+Score: 0.3804
+Category: support
+Topic: customer_support
+Text: Customer Support and Response Time
+Customers can contact Northstar Market through the support form or reply to an order email. Standard support replies within 1 business day. Questions involving payment security, a damaged or wrong item, a lost package, or an order that must be cancelled before shipment are priority issues and are reviewed within 4 business hours on business days. Include the order number when available to help support investigate.
+Result 4: KB_PAYMENT_002_CHUNK_001
+Score: 0.3645
+Category: payments
+Topic: payment_issues
+Text: Failed, Pending, and Duplicate Payments
+A failed payment does not create a confirmed order. A pending authorization normally clears or becomes a completed payment within 3-5 business days, depending on the bank. Customers who see two completed charges for one order should contact support with the order number and transaction dates; Northstar Market investigates and reverses a confirmed duplicate charge within 5-7 business days. Payment-related refunds return to the original payment method.
+Result 5: KB_EXCHANGE_001_CHUNK_001
+Score: 0.3099
+Category: exchange
+Topic: exchange_policy
+Text: Exchange Policy
+Exchange is separate from a refund return. Eligible unused items may be exchanged within 30 calendar days of delivery for a different size, color, or variant of the same product. The requested replacement must be available. Personalized products, gift cards, and opened hygiene-sensitive beauty items cannot be exchanged unless they arrived damaged or incorrect. An exchange does not create a cash refund unless Northstar Market cannot supply an agreed replacement.
+Appears relevant: Yes
+
+Query: My payment failed.
+Expected relevant area: payment
+Result 1: KB_PAYMENT_002_CHUNK_001
+Score: 0.4122
+Category: payments
+Topic: payment_issues
+Text: Failed, Pending, and Duplicate Payments
+A failed payment does not create a confirmed order. A pending authorization normally clears or becomes a completed payment within 3-5 business days, depending on the bank. Customers who see two completed charges for one order should contact support with the order number and transaction dates; Northstar Market investigates and reverses a confirmed duplicate charge within 5-7 business days. Payment-related refunds return to the original payment method.
+Result 2: KB_SHIPPING_004_CHUNK_002
+Score: 0.3612
+Category: shipping
+Topic: delivery_issues
+Text: Carriers make up to 3 delivery attempts. After a failed delivery, customers should contact the carrier or support within 5 calendar days to arrange the next step.
+Result 3: KB_SUPPORT_001_CHUNK_001
+Score: 0.3492
+Category: support
+Topic: customer_support
+Text: Customer Support and Response Time
+Customers can contact Northstar Market through the support form or reply to an order email. Standard support replies within 1 business day. Questions involving payment security, a damaged or wrong item, a lost package, or an order that must be cancelled before shipment are priority issues and are reviewed within 4 business hours on business days. Include the order number when available to help support investigate.
+Result 4: KB_RETURN_003_CHUNK_001
+Score: 0.3427
+Category: returns
+Topic: damaged_wrong_products
+Text: Damaged or Wrong Products
+Customers should report a damaged or incorrect product within 7 calendar days of delivery and include photos of the item, packaging, and shipping label when possible. Support will offer an approved return, replacement, or refund according to stock availability and customer preference. A damaged or wrong product can be handled even if it is normally non-returnable. Do not discard the item until support gives instructions.
+Result 5: KB_SUPPORT_002_CHUNK_001
+Score: 0.3112
+Category: support
+Topic: complaint_handling
+Text: Complaint Handling
+Support acknowledges a complaint within 1 business day, records the issue, and investigates the relevant order, delivery, product, or payment information. Customers should receive a clear next step and expected resolution timeframe. Staff should not promise a refund, replacement, or compensation until eligibility and evidence have been checked.
+Appears relevant: Yes
+
+Query: What warranty does the product have?
+Expected relevant area: warranty / product
+Result 1: KB_FAQ_001_CHUNK_003
+Score: 0.4982
+Category: faq
+Topic: frequently_asked_questions
+Text: Q: Does every product have a warranty? A: No. Check the product catalog; warranty duration is product-specific.
+Result 2: KB_PRODUCT_002_CHUNK_001
+Score: 0.4871
+Category: products
+Topic: warranty
+Text: Warranty Information
+Warranty duration is product-specific and appears in the product catalog. Electronics and home appliances may include a 6-month, 1-year, or 2-year limited warranty; products without a warranty are marked "No warranty" in the catalog. Warranties cover manufacturing defects under normal use, not accidental damage, misuse, or normal wear. Customers should provide an order number and a description or photo of the defect when requesting warranty support.
+Result 3: KB_RETURN_003_CHUNK_001
+Score: 0.4298
+Category: returns
+Topic: damaged_wrong_products
+Text: Damaged or Wrong Products
+Customers should report a damaged or incorrect product within 7 calendar days of delivery and include photos of the item, packaging, and shipping label when possible. Support will offer an approved return, replacement, or refund according to stock availability and customer preference. A damaged or wrong product can be handled even if it is normally non-returnable. Do not discard the item until support gives instructions.
+Result 4: KB_FAQ_001_CHUNK_002
+Score: 0.2910
+Category: faq
+Topic: frequently_asked_questions
+Text: Q: Can I exchange shoes for another size? A: Yes, eligible unused items can be exchanged within 30 calendar days if the requested size is available. Q: My order already shipped. Can I cancel it? A: No. After dispatch, use the return policy after delivery if eligible. Q: I received the wrong item. What should I do? A: Contact support within 7 calendar days with your order number and photos when possible. Q: Does every product have a warranty? A: No.
+Result 5: KB_SHIPPING_004_CHUNK_002
+Score: 0.2903
+Category: shipping
+Topic: delivery_issues
+Text: Carriers make up to 3 delivery attempts. After a failed delivery, customers should contact the carrier or support within 5 calendar days to arrange the next step.
+Appears relevant: Yes
+
+Query: I received a damaged product.
+Expected relevant area: damaged products / returns / complaint
+Result 1: KB_RETURN_003_CHUNK_001
+Score: 0.6326
+Category: returns
+Topic: damaged_wrong_products
+Text: Damaged or Wrong Products
+Customers should report a damaged or incorrect product within 7 calendar days of delivery and include photos of the item, packaging, and shipping label when possible. Support will offer an approved return, replacement, or refund according to stock availability and customer preference. A damaged or wrong product can be handled even if it is normally non-returnable. Do not discard the item until support gives instructions.
+Result 2: KB_FAQ_001_CHUNK_002
+Score: 0.3123
+Category: faq
+Topic: frequently_asked_questions
+Text: Q: Can I exchange shoes for another size? A: Yes, eligible unused items can be exchanged within 30 calendar days if the requested size is available. Q: My order already shipped. Can I cancel it? A: No. After dispatch, use the return policy after delivery if eligible. Q: I received the wrong item. What should I do? A: Contact support within 7 calendar days with your order number and photos when possible. Q: Does every product have a warranty? A: No.
+Result 3: KB_SUPPORT_002_CHUNK_001
+Score: 0.3053
+Category: support
+Topic: complaint_handling
+Text: Complaint Handling
+Support acknowledges a complaint within 1 business day, records the issue, and investigates the relevant order, delivery, product, or payment information. Customers should receive a clear next step and expected resolution timeframe. Staff should not promise a refund, replacement, or compensation until eligibility and evidence have been checked.
+Result 4: KB_SUPPORT_001_CHUNK_001
+Score: 0.2891
+Category: support
+Topic: customer_support
+Text: Customer Support and Response Time
+Customers can contact Northstar Market through the support form or reply to an order email. Standard support replies within 1 business day. Questions involving payment security, a damaged or wrong item, a lost package, or an order that must be cancelled before shipment are priority issues and are reviewed within 4 business hours on business days. Include the order number when available to help support investigate.
+Result 5: KB_RETURN_001_CHUNK_001
+Score: 0.2800
+Category: returns
+Topic: return_policy
+Text: Return Policy and Eligibility
+Most unused products may be returned within 30 calendar days of delivery for a refund. Items must include original accessories and be in resaleable condition. Personalized products, gift cards, and opened hygiene-sensitive beauty items are non-returnable unless they arrive damaged or incorrect. Return approval is required before sending an item back.
+Appears relevant: Yes
+
+TOP-K EXPERIMENT
+Smaller top_k returns less context and fewer irrelevant chunks; larger top_k provides broader context but may add noise and later LLM tokens.
+top_k=1: ['KB_FAQ_001_CHUNK_002']
+top_k=3: ['KB_FAQ_001_CHUNK_002', 'KB_EXCHANGE_003_CHUNK_001', 'KB_EXCHANGE_001_CHUNK_001']
+top_k=5: ['KB_FAQ_001_CHUNK_002', 'KB_EXCHANGE_003_CHUNK_001', 'KB_EXCHANGE_001_CHUNK_001', 'KB_FAQ_001_CHUNK_001', 'KB_EXCHANGE_002_CHUNK_001']

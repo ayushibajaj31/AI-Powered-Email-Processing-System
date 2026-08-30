@@ -1,0 +1,154 @@
+[
+  {
+    "document_id": "KB_SHIPPING_001",
+    "file_name": "shipping/order_processing.txt",
+    "category": "shipping",
+    "topic": "order_processing",
+    "source": "company_policy",
+    "version": "1.0"
+  },
+  {
+    "document_id": "KB_SHIPPING_002",
+    "file_name": "shipping/order_tracking.txt",
+    "category": "shipping",
+    "topic": "order_tracking",
+    "source": "company_policy",
+    "version": "1.0"
+  },
+  {
+    "document_id": "KB_SHIPPING_003",
+    "file_name": "shipping/shipping_policy.txt",
+    "category": "shipping",
+    "topic": "shipping_policy",
+    "source": "company_policy",
+    "version": "1.0"
+  },
+  {
+    "document_id": "KB_SHIPPING_004",
+    "file_name": "shipping/delivery_issues.txt",
+    "category": "shipping",
+    "topic": "delivery_issues",
+    "source": "company_policy",
+    "version": "1.0"
+  },
+  {
+    "document_id": "KB_RETURN_001",
+    "file_name": "returns/return_policy.txt",
+    "category": "returns",
+    "topic": "return_policy",
+    "source": "company_policy",
+    "version": "1.0"
+  },
+  {
+    "document_id": "KB_RETURN_002",
+    "file_name": "returns/refund_policy.txt",
+    "category": "returns",
+    "topic": "refund_policy",
+    "source": "company_policy",
+    "version": "1.0"
+  },
+  {
+    "document_id": "KB_RETURN_003",
+    "file_name": "returns/damaged_wrong_products.txt",
+    "category": "returns",
+    "topic": "damaged_wrong_products",
+    "source": "company_policy",
+    "version": "1.0"
+  },
+  {
+    "document_id": "KB_EXCHANGE_001",
+    "file_name": "exchange/exchange_policy.txt",
+    "category": "exchange",
+    "topic": "exchange_policy",
+    "source": "company_policy",
+    "version": "1.0"
+  },
+  {
+    "document_id": "KB_EXCHANGE_002",
+    "file_name": "exchange/exchange_process.txt",
+    "category": "exchange",
+    "topic": "exchange_process",
+    "source": "company_policy",
+    "version": "1.0"
+  },
+  {
+    "document_id": "KB_EXCHANGE_003",
+    "file_name": "exchange/exchange_availability.txt",
+    "category": "exchange",
+    "topic": "exchange_availability",
+    "source": "company_policy",
+    "version": "1.0"
+  },
+  {
+    "document_id": "KB_CANCEL_001",
+    "file_name": "cancellation/cancellation_policy.txt",
+    "category": "cancellation",
+    "topic": "cancellation_policy",
+    "source": "company_policy",
+    "version": "1.0"
+  },
+  {
+    "document_id": "KB_PAYMENT_001",
+    "file_name": "payments/payment_methods.txt",
+    "category": "payments",
+    "topic": "payment_methods",
+    "source": "company_policy",
+    "version": "1.0"
+  },
+  {
+    "document_id": "KB_PAYMENT_002",
+    "file_name": "payments/payment_issues.txt",
+    "category": "payments",
+    "topic": "payment_issues",
+    "source": "company_policy",
+    "version": "1.0"
+  },
+  {
+    "document_id": "KB_PRODUCT_001",
+    "file_name": "products/product_information.txt",
+    "category": "products",
+    "topic": "product_information",
+    "source": "company_policy",
+    "version": "1.0"
+  },
+  {
+    "document_id": "KB_PRODUCT_002",
+    "file_name": "products/warranty.txt",
+    "category": "products",
+    "topic": "warranty",
+    "source": "company_policy",
+    "version": "1.0"
+  },
+  {
+    "document_id": "KB_SUPPORT_001",
+    "file_name": "support/customer_support.txt",
+    "category": "support",
+    "topic": "customer_support",
+    "source": "company_policy",
+    "version": "1.0"
+  },
+  {
+    "document_id": "KB_SUPPORT_002",
+    "file_name": "support/complaint_handling.txt",
+    "category": "support",
+    "topic": "complaint_handling",
+    "source": "company_policy",
+    "version": "1.0"
+  },
+  {
+    "document_id": "KB_SUPPORT_003",
+    "file_name": "support/escalation_policy.txt",
+    "category": "support",
+    "topic": "escalation_policy",
+    "source": "company_policy",
+    "version": "1.0"
+  },
+  {
+    "document_id": "KB_FAQ_001",
+    "file_name": "faq/frequently_asked_questions.txt",
+    "category": "faq",
+    "topic": "frequently_asked_questions",
+    "source": "company_policy",
+    "version": "1.0"
+  }
+]

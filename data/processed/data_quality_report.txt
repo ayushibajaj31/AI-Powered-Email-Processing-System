@@ -1,0 +1,97 @@
+DATA QUALITY REPORT
+============================================================
+
+CLEANING DECISIONS
+- Exact duplicate rows were removed only; conflicting duplicate IDs remain for review.
+- Required missing values are preserved and reported instead of being invented or deleted.
+- Empty email order_id values are valid and preserved as blank optional fields.
+- Email text has whitespace/layout cleanup only; punctuation and meaningful words are retained.
+- Known category formatting variants are normalized; unknown categories are reported unchanged.
+
+CUSTOMERS
+Original rows: 300
+Final rows: 300
+Duplicates removed: 0
+Missing values: 0
+Duplicate Customer Id: 0
+Duplicate Email Address: 0
+Missing Customer Id: 0
+Missing Customer Name: 0
+Missing Email Address: 0
+Invalid Email Format: 0
+Missing Phone Number: 0
+Invalid Customer Since Date: 0
+
+PRODUCTS
+Original rows: 160
+Final rows: 160
+Total products: 160
+Duplicates removed: 0
+Missing required values: 0
+Note: available_sizes is optional for products that do not have sizes.
+Duplicate Product Id: 0
+Missing Product Id: 0
+Missing Product Name: 0
+Missing Description: 0
+Invalid Price: 0
+Invalid Stock Quantity: 0
+Invalid Warranty Period: 0
+Invalid Product Rating: 0
+Invalid Returnable: 0
+
+ORDERS
+Original rows: 1200
+Final rows: 1200
+Duplicates removed: 0
+Missing values: 0
+Duplicate Order Id: 0
+Missing Customer Id: 0
+Missing Product Id: 0
+Missing Product Name: 0
+Missing Order Date: 0
+Invalid Order Date: 0
+Invalid Order Status: 0
+Invalid Payment Status: 0
+Invalid Order Amount: 0
+Orphan Customer References: 0
+
+EMAILS
+Original rows: 2400
+Final rows: 2400
+Duplicates removed: 0
+Missing required values: 0
+Missing optional order IDs: 208
+Categories normalized: 0
+Unknown categories: None
+Duplicate Email Id: 0
+Duplicate Email Content: 0
+Missing Customer Id: 0
+Missing Subject: 0
+Missing Email Body: 0
+Invalid Timestamp: 0
+Invalid Category: 0
+Invalid Order Id: 0
+Orphan Customer References: 0
+Orphan Order References: 0
+
+RELATIONSHIP VALIDATION
+Valid Order Customer Links: 1200
+Valid Email Customer Links: 2400
+Valid Email Order Links: 2192
+Orphan Orders: 0
+Orphan Emails: 0
+Orphan Email Orders: 0
+Orders With Valid Product Ids: 1200
+Orders With Invalid Product Ids: 0
+Orders With Product Name Mismatch: 0
+
+EMAIL STATISTICS
+Minimum Length: 148
+Maximum Length: 269
+Average Length: 199.25
+Median Length: 197.0
+Very Short Emails Under 40 Characters: 0
+Very Long Emails Over 500 Characters: 0
+Emails With Order Id: 2192
+Emails Without Order Id: 208
+Category Distribution: {'Other': 300, 'Complaint': 300, 'Payment Issue': 300, 'Cancellation': 300, 'Return/Refund': 300, 'Order Status': 300, 'Exchange': 300, 'Product Information': 300}

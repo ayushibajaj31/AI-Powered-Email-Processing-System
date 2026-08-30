@@ -1,0 +1,2 @@
+Order Processing and Confirmation
+Northstar Market begins processing paid orders within 1-2 business days. Orders placed after 5:00 PM local warehouse time, on weekends, or on public holidays start processing on the next business day. An order-confirmation email is sent immediately after checkout; a shipping-confirmation email with tracking is sent after dispatch. Customers may request changes or cancellation only while an order remains Processing.

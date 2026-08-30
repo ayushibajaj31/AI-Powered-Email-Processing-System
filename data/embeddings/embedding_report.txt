@@ -1,0 +1,15 @@
+EMBEDDING VALIDATION REPORT
+============================================================
+Embedding Model: sentence-transformers/all-MiniLM-L6-v2
+Number Of Chunks: 24
+Number Of Embeddings: 24
+Embedding Dimension: 384
+Data Type: float32
+Invalid Embeddings: 0
+Missing Chunk Metadata: 0
+Invalid Embedding Indices: 0
+Minimum Vector Norm: 0.9999999403953552
+Maximum Vector Norm: 1.0000001192092896
+Average Vector Norm: 1.0
+
+Final status: PASSED

@@ -1,0 +1,64 @@
+DATASET SPLIT REPORT
+============================================================
+
+DATASET SUMMARY
+Original number of emails: 2400
+Train samples: 1680
+Validation samples: 360
+Test samples: 360
+
+CLASS DISTRIBUTION
+Category | Train | Validation | Test
+Order Status | 210 | 45 | 45
+Return/Refund | 210 | 45 | 45
+Cancellation | 210 | 45 | 45
+Payment Issue | 210 | 45 | 45
+Product Information | 210 | 45 | 45
+Complaint | 210 | 45 | 45
+Exchange | 210 | 45 | 45
+Other | 210 | 45 | 45
+
+Class percentages
+Train: Order Status 12.5%, Return/Refund 12.5%, Cancellation 12.5%, Payment Issue 12.5%, Product Information 12.5%, Complaint 12.5%, Exchange 12.5%, Other 12.5%
+Validation: Order Status 12.5%, Return/Refund 12.5%, Cancellation 12.5%, Payment Issue 12.5%, Product Information 12.5%, Complaint 12.5%, Exchange 12.5%, Other 12.5%
+Test: Order Status 12.5%, Return/Refund 12.5%, Cancellation 12.5%, Payment Issue 12.5%, Product Information 12.5%, Complaint 12.5%, Exchange 12.5%, Other 12.5%
+
+LEAKAGE CHECKS (all email ID/body/text values must be zero across splits)
+Email Id Train Validation: 0
+Email Body Train Validation: 0
+Text Train Validation: 0
+Customer Train Validation: 198 (customer overlap is allowed)
+Email Id Train Test: 0
+Email Body Train Test: 0
+Text Train Test: 0
+Customer Train Test: 210 (customer overlap is allowed)
+Email Id Validation Test: 0
+Email Body Validation Test: 0
+Text Validation Test: 0
+Customer Validation Test: 140 (customer overlap is allowed)
+
+DATA QUALITY
+TRAIN
+Missing Text: 0
+Empty Text: 0
+Missing Category: 0
+Invalid Category: 0
+Duplicate Email Id: 0
+Duplicate Text: 0
+VALIDATION
+Missing Text: 0
+Empty Text: 0
+Missing Category: 0
+Invalid Category: 0
+Duplicate Email Id: 0
+Duplicate Text: 0
+TEST
+Missing Text: 0
+Empty Text: 0
+Missing Category: 0
+Invalid Category: 0
+Duplicate Email Id: 0
+Duplicate Text: 0
+
+FINAL CONCLUSION
+Dataset split passed

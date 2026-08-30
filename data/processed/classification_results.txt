@@ -1,0 +1,104 @@
+BASELINE EMAIL CLASSIFICATION RESULTS
+============================================================
+
+MODEL
+TF-IDF (unigrams and bigrams) + Logistic Regression
+
+VALIDATION METRICS
+Accuracy: 1.0000
+Macro Precision: 1.0000
+Macro Recall: 1.0000
+Macro F1: 1.0000
+Weighted Precision: 1.0000
+Weighted Recall: 1.0000
+Weighted F1: 1.0000
+
+VALIDATION CLASSIFICATION REPORT
+                     precision    recall  f1-score   support
+
+       Order Status       1.00      1.00      1.00        45
+      Return/Refund       1.00      1.00      1.00        45
+       Cancellation       1.00      1.00      1.00        45
+      Payment Issue       1.00      1.00      1.00        45
+Product Information       1.00      1.00      1.00        45
+          Complaint       1.00      1.00      1.00        45
+           Exchange       1.00      1.00      1.00        45
+              Other       1.00      1.00      1.00        45
+
+           accuracy                           1.00       360
+          macro avg       1.00      1.00      1.00       360
+       weighted avg       1.00      1.00      1.00       360
+
+
+TEST METRICS
+Accuracy: 1.0000
+Macro Precision: 1.0000
+Macro Recall: 1.0000
+Macro F1: 1.0000
+Weighted Precision: 1.0000
+Weighted Recall: 1.0000
+Weighted F1: 1.0000
+
+TEST CLASSIFICATION REPORT
+                     precision    recall  f1-score   support
+
+       Order Status       1.00      1.00      1.00        45
+      Return/Refund       1.00      1.00      1.00        45
+       Cancellation       1.00      1.00      1.00        45
+      Payment Issue       1.00      1.00      1.00        45
+Product Information       1.00      1.00      1.00        45
+          Complaint       1.00      1.00      1.00        45
+           Exchange       1.00      1.00      1.00        45
+              Other       1.00      1.00      1.00        45
+
+           accuracy                           1.00       360
+          macro avg       1.00      1.00      1.00       360
+       weighted avg       1.00      1.00      1.00       360
+
+
+MANUAL EXAMPLE PREDICTIONS
+Email: Where is my parcel? I ordered last week and tracking has not moved.
+Predicted category: Order Status
+Confidence: 0.70
+
+Email: Return request The shoes are too small. I want to return them.
+Predicted category: Return/Refund
+Confidence: 0.95
+
+Email: Cancel this please I placed the order by accident and need to cancel it.
+Predicted category: Cancellation
+Confidence: 0.84
+
+Email: Payment was deducted twice My card shows two charges for one purchase.
+Predicted category: Payment Issue
+Confidence: 0.78
+
+Email: Question about colors Do you have this backpack in blue or green?
+Predicted category: Product Information
+Confidence: 0.44
+
+Email: Damaged item The lamp arrived broken and the box was crushed.
+Predicted category: Return/Refund
+Confidence: 0.46
+
+Email: Need smaller size I ordered M size but I need S size. I would like an exchange.
+Predicted category: Exchange
+Confidence: 0.93
+
+Email: Password help I cannot sign in to my account after resetting my password.
+Predicted category: Other
+Confidence: 0.77
+
+Email: order still processing hey, why has my package not shipped yet??
+Predicted category: Order Status
+Confidence: 0.84
+
+Email: Need help I got something but it is not right. What should I do?
+Predicted category: Other
+Confidence: 0.23
+
+Email: Warranty How long is the warranty for these headphones?
+Predicted category: Product Information
+Confidence: 0.64
+
+Note: Test metrics are reported for final evaluation only and were not used to tune this baseline.

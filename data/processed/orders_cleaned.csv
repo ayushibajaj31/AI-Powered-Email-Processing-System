@@ -1,0 +1,1201 @@
+order_id,customer_id,product_id,product_name,order_date,order_status,payment_status,order_amount
+ORD00001,CUST0281,PRD-093,Ember Gentle Cleanser,2026-06-02,Processing,Paid,67.27
+ORD00002,CUST0267,PRD-052,Meadow Training Shoe,2026-03-29,Delivered,Paid,117.69
+ORD00003,CUST0047,PRD-030,Lumen Denim Jacket,2026-06-07,Delivered,Paid,117.64
+ORD00004,CUST0234,PRD-115,Sage Travel Backpack,2026-08-01,Delivered,Paid,161.18
+ORD00005,CUST0012,PRD-015,Sage Wireless Earbuds,2026-02-10,Delivered,Paid,103.96
+ORD00006,CUST0024,PRD-066,Nova Coffee Grinder,2026-03-10,Delivered,Paid,59.04
+ORD00007,CUST0036,PRD-089,Willow Vitamin C Set,2026-04-29,Delivered,Paid,103.16
+ORD00008,CUST0216,PRD-009,Willow Portable Speaker,2026-01-19,Shipped,Paid,29.68
+ORD00009,CUST0193,PRD-098,Terra Hydrating Serum,2025-03-24,Out for Delivery,Failed,303.38
+ORD00010,CUST0092,PRD-139,Aster Yoga Mat,2026-07-05,Processing,Failed,84.95
+ORD00011,CUST0002,PRD-101,Nimbus Canvas Tote,2025-01-24,Delivered,Paid,57.67
+ORD00012,CUST0273,PRD-077,Echo Coffee Grinder,2026-01-24,Out for Delivery,Paid,343.62
+ORD00013,CUST0097,PRD-059,Aster Daily Runner,2025-04-26,Shipped,Paid,81.25
+ORD00014,CUST0124,PRD-009,Willow Portable Speaker,2025-07-31,Delivered,Paid,29.68
+ORD00015,CUST0126,PRD-018,Terra Studio Microphone,2025-02-15,Processing,Paid,128.34
+ORD00016,CUST0072,PRD-103,Orbit Laptop Sleeve,2026-05-31,Out for Delivery,Paid,116.28
+ORD00017,CUST0296,PRD-075,Sage Air Fryer,2025-11-25,Shipped,Failed,172.35
+ORD00018,CUST0212,PRD-061,Nimbus Electric Kettle,2025-11-04,Shipped,Paid,57.06
+ORD00019,CUST0219,PRD-071,Summit Air Fryer,2026-07-24,Processing,Refunded,106.37
+ORD00020,CUST0269,PRD-127,Pioneer Insulated Bottle,2025-11-23,Processing,Paid,259.72
+ORD00021,CUST0276,PRD-107,Pioneer Canvas Tote,2026-04-30,Shipped,Paid,58.22
+ORD00022,CUST0238,PRD-062,Harbor Electric Kettle,2025-03-01,Delivered,Paid,39.61
+ORD00023,CUST0199,PRD-144,Cedar Bamboo Organizer,2025-09-06,Shipped,Paid,169.30
+ORD00024,CUST0190,PRD-066,Nova Coffee Grinder,2025-04-05,Shipped,Paid,118.08
+ORD00025,CUST0194,PRD-138,Terra Resistance Band Set,2025-02-10,Delivered,Paid,57.28
+ORD00026,CUST0246,PRD-019,Aster Studio Microphone,2025-08-02,Processing,Pending,29.06
+ORD00027,CUST0098,PRD-086,Nova Gentle Cleanser,2025-05-01,Shipped,Failed,37.66
+ORD00028,CUST0204,PRD-123,Orbit Insulated Bottle,2025-09-03,Cancelled,Refunded,112.56
+ORD00029,CUST0274,PRD-142,Harbor Cast Iron Pan,2026-01-03,Shipped,Paid,128.48
+ORD00030,CUST0239,PRD-079,Aster Coffee Grinder,2025-04-11,Shipped,Paid,137.86
+ORD00031,CUST0190,PRD-121,Nimbus Foam Roller,2025-11-17,Delivered,Paid,114.18
+ORD00032,CUST0009,PRD-106,Nova Crossbody Bag,2025-09-25,Processing,Failed,40.82
+ORD00033,CUST0152,PRD-142,Harbor Cast Iron Pan,2025-06-06,Returned,Refunded,128.48
+ORD00034,CUST0256,PRD-051,Summit Training Shoe,2026-07-18,Shipped,Paid,130.76
+ORD00035,CUST0236,PRD-087,Pioneer Vitamin C Set,2025-06-22,Shipped,Pending,44.52
+ORD00036,CUST0095,PRD-091,Summit Night Cream,2026-07-10,Processing,Paid,77.58
+ORD00037,CUST0025,PRD-016,Drift Noise-Canceling Headphones,2025-01-07,Delivered,Pending,56.28
+ORD00038,CUST0078,PRD-106,Nova Crossbody Bag,2025-01-10,Processing,Paid,40.82
+ORD00039,CUST0250,PRD-056,Drift Trail Runner,2025-01-17,Out for Delivery,Paid,268.80
+ORD00040,CUST0272,PRD-002,Harbor Wireless Earbuds,2025-10-09,Delivered,Paid,43.20
+ORD00041,CUST0092,PRD-138,Terra Resistance Band Set,2025-04-20,Returned,Refunded,114.56
+ORD00042,CUST0182,PRD-025,Solace Denim Jacket,2025-10-01,Delivered,Paid,177.15
+ORD00043,CUST0290,PRD-102,Harbor Travel Backpack,2025-09-07,Processing,Refunded,87.22
+ORD00044,CUST0017,PRD-058,Terra Daily Runner,2025-04-06,Shipped,Pending,102.80
+ORD00045,CUST0005,PRD-104,Cedar Laptop Sleeve,2025-06-25,Shipped,Paid,176.01
+ORD00046,CUST0290,PRD-022,Harbor Fleece Hoodie,2025-04-08,Out for Delivery,Paid,117.63
+ORD00047,CUST0139,PRD-136,Drift Insulated Bottle,2025-02-17,Cancelled,Refunded,248.54
+ORD00048,CUST0092,PRD-020,Brook Wireless Earbuds,2025-11-19,Delivered,Paid,75.01
+ORD00049,CUST0040,PRD-005,Solace Studio Microphone,2025-11-03,Returned,Refunded,206.72
+ORD00050,CUST0277,PRD-042,Harbor Training Shoe,2025-12-06,Delivered,Paid,185.58
+ORD00051,CUST0257,PRD-099,Aster Night Cream,2025-12-21,Delivered,Paid,123.48
+ORD00052,CUST0175,PRD-014,Coast Portable Speaker,2026-02-11,Processing,Paid,138.82
+ORD00053,CUST0252,PRD-084,Cedar Night Cream,2025-08-22,Processing,Paid,252.38
+ORD00054,CUST0300,PRD-092,Meadow Vitamin C Set,2026-01-25,Delivered,Paid,99.46
+ORD00055,CUST0038,PRD-022,Harbor Fleece Hoodie,2025-03-26,Delivered,Paid,117.63
+ORD00056,CUST0200,PRD-069,Willow Coffee Grinder,2025-11-21,Processing,Paid,130.12
+ORD00057,CUST0228,PRD-093,Ember Gentle Cleanser,2026-01-04,Processing,Paid,67.27
+ORD00058,CUST0230,PRD-070,Lumen Compact Blender,2026-07-25,Processing,Paid,271.58
+ORD00059,CUST0182,PRD-143,Orbit Bamboo Organizer,2026-07-22,Out for Delivery,Paid,104.69
+ORD00060,CUST0007,PRD-024,Cedar Rain Jacket,2025-10-26,Delivered,Pending,346.30
+ORD00061,CUST0293,PRD-106,Nova Crossbody Bag,2026-06-18,Shipped,Paid,40.82
+ORD00062,CUST0155,PRD-044,Cedar Walking Shoe,2025-10-02,Delivered,Paid,26.45
+ORD00063,CUST0216,PRD-127,Pioneer Insulated Bottle,2025-11-03,Processing,Paid,129.86
+ORD00064,CUST0254,PRD-124,Cedar Resistance Band Set,2025-07-20,Delivered,Paid,134.87
+ORD00065,CUST0171,PRD-118,Terra Canvas Tote,2026-01-25,Processing,Paid,198.02
+ORD00066,CUST0154,PRD-085,Solace Night Cream,2025-11-25,Out for Delivery,Paid,155.92
+ORD00067,CUST0091,PRD-155,Sage Ceramic Mug Set,2026-02-12,Returned,Refunded,60.37
+ORD00068,CUST0295,PRD-082,Harbor Vitamin C Set,2025-09-06,Shipped,Paid,100.86
+ORD00069,CUST0187,PRD-084,Cedar Night Cream,2025-04-27,Shipped,Pending,252.38
+ORD00070,CUST0282,PRD-145,Solace Glass Storage Set,2025-01-28,Processing,Refunded,48.18
+ORD00071,CUST0036,PRD-119,Aster Laptop Sleeve,2026-02-23,Returned,Refunded,148.24
+ORD00072,CUST0079,PRD-128,Atlas Insulated Bottle,2026-03-10,Processing,Paid,159.40
+ORD00073,CUST0299,PRD-097,Echo Gentle Cleanser,2026-02-15,Processing,Refunded,91.46
+ORD00074,CUST0279,PRD-137,Echo Foam Roller,2025-02-07,Out for Delivery,Failed,338.30
+ORD00075,CUST0056,PRD-093,Ember Gentle Cleanser,2025-09-12,Delivered,Pending,67.27
+ORD00076,CUST0170,PRD-091,Summit Night Cream,2026-03-17,Processing,Paid,77.58
+ORD00077,CUST0229,PRD-028,Atlas Denim Jacket,2026-01-19,Processing,Paid,127.98
+ORD00078,CUST0177,PRD-101,Nimbus Canvas Tote,2025-01-26,Out for Delivery,Paid,57.67
+ORD00079,CUST0060,PRD-124,Cedar Resistance Band Set,2025-05-26,Processing,Paid,134.87
+ORD00080,CUST0267,PRD-090,Lumen Gentle Cleanser,2026-05-10,Shipped,Paid,175.53
+ORD00081,CUST0164,PRD-090,Lumen Gentle Cleanser,2025-03-10,Out for Delivery,Paid,351.06
+ORD00082,CUST0176,PRD-077,Echo Coffee Grinder,2025-04-22,Processing,Paid,171.81
+ORD00083,CUST0170,PRD-043,Orbit Training Shoe,2026-07-28,Cancelled,Paid,174.54
+ORD00084,CUST0095,PRD-110,Lumen Canvas Tote,2025-07-10,Returned,Refunded,199.76
+ORD00085,CUST0231,PRD-111,Summit Travel Backpack,2026-03-16,Shipped,Paid,26.19
+ORD00086,CUST0033,PRD-100,Brook Vitamin C Set,2025-04-15,Processing,Paid,162.02
+ORD00087,CUST0059,PRD-138,Terra Resistance Band Set,2025-09-26,Processing,Paid,114.56
+ORD00088,CUST0201,PRD-126,Nova Yoga Mat,2025-04-27,Delivered,Paid,97.82
+ORD00089,CUST0153,PRD-090,Lumen Gentle Cleanser,2025-03-28,Shipped,Paid,175.53
+ORD00090,CUST0094,PRD-035,Sage Denim Jacket,2026-01-18,Shipped,Paid,171.52
+ORD00091,CUST0295,PRD-037,Echo Fleece Hoodie,2026-01-28,Out for Delivery,Paid,125.23
+ORD00092,CUST0285,PRD-109,Willow Canvas Tote,2025-06-20,Processing,Paid,98.80
+ORD00093,CUST0028,PRD-126,Nova Yoga Mat,2026-01-03,Shipped,Paid,97.82
+ORD00094,CUST0288,PRD-003,Orbit Studio Microphone,2026-06-02,Out for Delivery,Paid,193.36
+ORD00095,CUST0251,PRD-127,Pioneer Insulated Bottle,2025-06-21,Shipped,Paid,259.72
+ORD00096,CUST0150,PRD-022,Harbor Fleece Hoodie,2025-02-03,Delivered,Pending,117.63
+ORD00097,CUST0290,PRD-071,Summit Air Fryer,2026-05-23,Shipped,Paid,212.74
+ORD00098,CUST0279,PRD-141,Nimbus Glass Storage Set,2026-01-11,Out for Delivery,Paid,95.35
+ORD00099,CUST0280,PRD-139,Aster Yoga Mat,2025-08-12,Delivered,Paid,169.90
+ORD00100,CUST0153,PRD-109,Willow Canvas Tote,2025-02-03,Processing,Pending,98.80
+ORD00101,CUST0225,PRD-116,Drift Travel Backpack,2025-05-01,Shipped,Failed,38.84
+ORD00102,CUST0220,PRD-061,Nimbus Electric Kettle,2025-06-19,Shipped,Paid,57.06
+ORD00103,CUST0031,PRD-158,Terra Bamboo Organizer,2026-08-07,Processing,Paid,173.09
+ORD00104,CUST0166,PRD-090,Lumen Gentle Cleanser,2025-10-27,Delivered,Paid,175.53
+ORD00105,CUST0070,PRD-075,Sage Air Fryer,2026-02-26,Delivered,Refunded,172.35
+ORD00106,CUST0128,PRD-016,Drift Noise-Canceling Headphones,2025-05-30,Returned,Paid,56.28
+ORD00107,CUST0251,PRD-083,Orbit Gentle Cleanser,2025-05-26,Delivered,Pending,327.18
+ORD00108,CUST0232,PRD-148,Atlas Cast Iron Pan,2025-03-19,Delivered,Paid,98.48
+ORD00109,CUST0233,PRD-024,Cedar Rain Jacket,2026-05-15,Shipped,Paid,173.15
+ORD00110,CUST0235,PRD-084,Cedar Night Cream,2026-01-02,Delivered,Failed,126.19
+ORD00111,CUST0109,PRD-017,Echo Noise-Canceling Headphones,2026-05-22,Delivered,Paid,282.30
+ORD00112,CUST0290,PRD-069,Willow Coffee Grinder,2026-05-12,Shipped,Paid,130.12
+ORD00113,CUST0009,PRD-088,Atlas Gentle Cleanser,2025-05-08,Cancelled,Paid,234.28
+ORD00114,CUST0104,PRD-041,Nimbus Training Shoe,2025-05-16,Out for Delivery,Paid,328.88
+ORD00115,CUST0048,PRD-078,Terra Electric Kettle,2026-01-05,Processing,Refunded,78.27
+ORD00116,CUST0027,PRD-065,Solace Air Fryer,2026-02-10,Processing,Paid,161.50
+ORD00117,CUST0047,PRD-079,Aster Coffee Grinder,2025-04-08,Delivered,Pending,137.86
+ORD00118,CUST0266,PRD-001,Nimbus Portable Speaker,2026-04-01,Shipped,Paid,68.49
+ORD00119,CUST0217,PRD-003,Orbit Studio Microphone,2025-05-16,Processing,Paid,96.68
+ORD00120,CUST0053,PRD-123,Orbit Insulated Bottle,2025-11-17,Processing,Paid,112.56
+ORD00121,CUST0074,PRD-095,Sage Gentle Cleanser,2025-03-12,Cancelled,Refunded,120.88
+ORD00122,CUST0226,PRD-136,Drift Insulated Bottle,2025-12-26,Delivered,Paid,124.27
+ORD00123,CUST0227,PRD-055,Sage Training Shoe,2025-08-11,Delivered,Paid,56.34
+ORD00124,CUST0197,PRD-023,Orbit Fleece Hoodie,2025-12-26,Cancelled,Refunded,90.86
+ORD00125,CUST0044,PRD-110,Lumen Canvas Tote,2025-09-12,Shipped,Paid,99.88
+ORD00126,CUST0014,PRD-142,Harbor Cast Iron Pan,2025-11-05,Delivered,Paid,64.24
+ORD00127,CUST0152,PRD-053,Ember Trail Runner,2025-02-25,Out for Delivery,Paid,213.82
+ORD00128,CUST0037,PRD-062,Harbor Electric Kettle,2026-06-25,Out for Delivery,Paid,79.22
+ORD00129,CUST0188,PRD-004,Cedar Wireless Earbuds,2026-07-14,Returned,Paid,147.84
+ORD00130,CUST0009,PRD-045,Solace Daily Runner,2025-03-11,Delivered,Refunded,133.25
+ORD00131,CUST0204,PRD-004,Cedar Wireless Earbuds,2026-06-03,Shipped,Paid,73.92
+ORD00132,CUST0217,PRD-074,Coast Compact Blender,2026-02-16,Delivered,Paid,60.32
+ORD00133,CUST0143,PRD-022,Harbor Fleece Hoodie,2025-03-27,Delivered,Paid,117.63
+ORD00134,CUST0275,PRD-080,Brook Air Fryer,2025-12-01,Processing,Failed,98.85
+ORD00135,CUST0159,PRD-101,Nimbus Canvas Tote,2026-03-24,Delivered,Pending,57.67
+ORD00136,CUST0060,PRD-062,Harbor Electric Kettle,2026-04-10,Processing,Paid,79.22
+ORD00137,CUST0062,PRD-157,Echo Cast Iron Pan,2025-01-13,Delivered,Paid,129.83
+ORD00138,CUST0268,PRD-036,Drift Rain Jacket,2026-06-14,Delivered,Paid,43.10
+ORD00139,CUST0061,PRD-067,Pioneer Compact Blender,2025-01-31,Processing,Paid,158.26
+ORD00140,CUST0135,PRD-086,Nova Gentle Cleanser,2025-03-20,Delivered,Paid,37.66
+ORD00141,CUST0291,PRD-128,Atlas Insulated Bottle,2025-06-20,Out for Delivery,Paid,318.80
+ORD00142,CUST0117,PRD-095,Sage Gentle Cleanser,2026-06-06,Processing,Pending,120.88
+ORD00143,CUST0024,PRD-001,Nimbus Portable Speaker,2026-04-29,Processing,Failed,68.49
+ORD00144,CUST0284,PRD-094,Coast Gentle Cleanser,2026-03-06,Shipped,Paid,74.06
+ORD00145,CUST0139,PRD-058,Terra Daily Runner,2025-03-21,Shipped,Paid,102.80
+ORD00146,CUST0092,PRD-147,Pioneer Glass Storage Set,2025-08-17,Shipped,Paid,162.06
+ORD00147,CUST0145,PRD-133,Ember Resistance Band Set,2025-11-15,Returned,Paid,259.64
+ORD00148,CUST0103,PRD-084,Cedar Night Cream,2025-10-26,Processing,Paid,126.19
+ORD00149,CUST0238,PRD-145,Solace Glass Storage Set,2026-01-13,Delivered,Paid,48.18
+ORD00150,CUST0078,PRD-152,Meadow Ceramic Mug Set,2025-01-07,Returned,Pending,47.93
+ORD00151,CUST0172,PRD-105,Solace Travel Backpack,2025-01-02,Processing,Paid,69.70
+ORD00152,CUST0106,PRD-097,Echo Gentle Cleanser,2026-06-27,Delivered,Paid,45.73
+ORD00153,CUST0144,PRD-061,Nimbus Electric Kettle,2025-04-06,Shipped,Refunded,57.06
+ORD00154,CUST0235,PRD-012,Meadow Studio Microphone,2025-03-28,Cancelled,Paid,152.79
+ORD00155,CUST0039,PRD-149,Willow Glass Storage Set,2026-08-05,Processing,Paid,246.04
+ORD00156,CUST0150,PRD-016,Drift Noise-Canceling Headphones,2025-09-25,Out for Delivery,Refunded,56.28
+ORD00157,CUST0163,PRD-081,Nimbus Night Cream,2026-04-09,Cancelled,Refunded,132.05
+ORD00158,CUST0300,PRD-070,Lumen Compact Blender,2025-04-22,Shipped,Refunded,135.79
+ORD00159,CUST0209,PRD-040,Brook Quilted Vest,2025-05-04,Processing,Paid,55.91
+ORD00160,CUST0158,PRD-138,Terra Resistance Band Set,2026-04-20,Shipped,Pending,114.56
+ORD00161,CUST0021,PRD-068,Atlas Coffee Grinder,2025-08-09,Delivered,Paid,162.10
+ORD00162,CUST0203,PRD-084,Cedar Night Cream,2026-06-10,Processing,Paid,126.19
+ORD00163,CUST0016,PRD-013,Ember Noise-Canceling Headphones,2026-02-19,Delivered,Paid,88.58
+ORD00164,CUST0237,PRD-116,Drift Travel Backpack,2025-04-15,Delivered,Paid,38.84
+ORD00165,CUST0067,PRD-036,Drift Rain Jacket,2025-07-22,Processing,Paid,43.10
+ORD00166,CUST0299,PRD-103,Orbit Laptop Sleeve,2025-09-23,Shipped,Paid,116.28
+ORD00167,CUST0066,PRD-020,Brook Wireless Earbuds,2025-04-05,Processing,Paid,150.02
+ORD00168,CUST0087,PRD-085,Solace Night Cream,2026-03-20,Processing,Refunded,155.92
+ORD00169,CUST0089,PRD-102,Harbor Travel Backpack,2025-12-29,Out for Delivery,Paid,87.22
+ORD00170,CUST0077,PRD-055,Sage Training Shoe,2025-02-05,Cancelled,Refunded,56.34
+ORD00171,CUST0256,PRD-158,Terra Bamboo Organizer,2026-02-26,Delivered,Paid,173.09
+ORD00172,CUST0071,PRD-141,Nimbus Glass Storage Set,2026-03-06,Out for Delivery,Paid,190.70
+ORD00173,CUST0279,PRD-052,Meadow Training Shoe,2025-01-20,Delivered,Pending,117.69
+ORD00174,CUST0177,PRD-098,Terra Hydrating Serum,2026-08-03,Delivered,Paid,303.38
+ORD00175,CUST0164,PRD-129,Willow Resistance Band Set,2025-08-13,Shipped,Paid,108.86
+ORD00176,CUST0272,PRD-008,Atlas Noise-Canceling Headphones,2026-01-02,Cancelled,Paid,159.18
+ORD00177,CUST0137,PRD-150,Lumen Cast Iron Pan,2026-07-01,Returned,Paid,109.98
+ORD00178,CUST0182,PRD-015,Sage Wireless Earbuds,2025-06-27,Delivered,Refunded,207.92
+ORD00179,CUST0015,PRD-046,Nova Trail Runner,2025-12-27,Shipped,Paid,62.19
+ORD00180,CUST0253,PRD-146,Nova Cast Iron Pan,2026-07-10,Delivered,Paid,110.01
+ORD00181,CUST0120,PRD-080,Brook Air Fryer,2025-08-13,Processing,Paid,98.85
+ORD00182,CUST0067,PRD-006,Nova Wireless Earbuds,2025-12-15,Delivered,Paid,19.25
+ORD00183,CUST0076,PRD-046,Nova Trail Runner,2025-05-26,Cancelled,Paid,62.19
+ORD00184,CUST0192,PRD-029,Willow Denim Jacket,2026-02-10,Delivered,Failed,28.68
+ORD00185,CUST0081,PRD-151,Summit Glass Storage Set,2026-03-24,Processing,Paid,151.97
+ORD00186,CUST0115,PRD-125,Solace Insulated Bottle,2025-06-29,Delivered,Paid,41.94
+ORD00187,CUST0091,PRD-097,Echo Gentle Cleanser,2025-01-02,Shipped,Paid,45.73
+ORD00188,CUST0094,PRD-147,Pioneer Glass Storage Set,2025-11-22,Shipped,Refunded,162.06
+ORD00189,CUST0073,PRD-157,Echo Cast Iron Pan,2025-12-06,Shipped,Paid,259.66
+ORD00190,CUST0046,PRD-020,Brook Wireless Earbuds,2025-12-10,Shipped,Refunded,75.01
+ORD00191,CUST0180,PRD-115,Sage Travel Backpack,2025-09-20,Processing,Paid,80.59
+ORD00192,CUST0215,PRD-028,Atlas Denim Jacket,2025-06-20,Delivered,Paid,255.96
+ORD00193,CUST0052,PRD-106,Nova Crossbody Bag,2026-05-06,Out for Delivery,Paid,81.64
+ORD00194,CUST0232,PRD-148,Atlas Cast Iron Pan,2025-03-17,Delivered,Paid,49.24
+ORD00195,CUST0038,PRD-009,Willow Portable Speaker,2025-12-17,Shipped,Paid,29.68
+ORD00196,CUST0281,PRD-044,Cedar Walking Shoe,2025-04-06,Cancelled,Refunded,26.45
+ORD00197,CUST0016,PRD-087,Pioneer Vitamin C Set,2026-03-18,Delivered,Paid,44.52
+ORD00198,CUST0052,PRD-043,Orbit Training Shoe,2025-12-06,Delivered,Paid,174.54
+ORD00199,CUST0145,PRD-053,Ember Trail Runner,2025-11-01,Returned,Refunded,106.91
+ORD00200,CUST0079,PRD-061,Nimbus Electric Kettle,2025-02-25,Processing,Paid,114.12
+ORD00201,CUST0103,PRD-093,Ember Gentle Cleanser,2025-04-10,Processing,Paid,134.54
+ORD00202,CUST0243,PRD-007,Pioneer Portable Speaker,2025-04-29,Shipped,Paid,71.16
+ORD00203,CUST0047,PRD-079,Aster Coffee Grinder,2026-07-12,Delivered,Paid,68.93
+ORD00204,CUST0096,PRD-100,Brook Vitamin C Set,2026-04-02,Processing,Failed,162.02
+ORD00205,CUST0138,PRD-012,Meadow Studio Microphone,2026-08-01,Shipped,Paid,152.79
+ORD00206,CUST0044,PRD-016,Drift Noise-Canceling Headphones,2025-12-19,Processing,Paid,56.28
+ORD00207,CUST0284,PRD-139,Aster Yoga Mat,2025-03-04,Shipped,Pending,84.95
+ORD00208,CUST0294,PRD-100,Brook Vitamin C Set,2025-08-30,Delivered,Paid,324.04
+ORD00209,CUST0258,PRD-122,Harbor Insulated Bottle,2026-08-08,Shipped,Paid,150.15
+ORD00210,CUST0062,PRD-133,Ember Resistance Band Set,2026-04-05,Delivered,Paid,129.82
+ORD00211,CUST0099,PRD-045,Solace Daily Runner,2025-05-10,Returned,Refunded,133.25
+ORD00212,CUST0104,PRD-011,Summit Studio Microphone,2025-06-01,Out for Delivery,Refunded,129.80
+ORD00213,CUST0045,PRD-153,Ember Bamboo Organizer,2026-02-02,Shipped,Failed,19.11
+ORD00214,CUST0267,PRD-143,Orbit Bamboo Organizer,2026-04-15,Shipped,Paid,104.69
+ORD00215,CUST0058,PRD-004,Cedar Wireless Earbuds,2026-03-01,Delivered,Paid,147.84
+ORD00216,CUST0055,PRD-039,Aster Quilted Vest,2026-07-31,Processing,Paid,77.02
+ORD00217,CUST0211,PRD-026,Nova Fleece Hoodie,2025-09-28,Delivered,Failed,58.13
+ORD00218,CUST0020,PRD-099,Aster Night Cream,2025-06-26,Delivered,Paid,246.96
+ORD00219,CUST0020,PRD-071,Summit Air Fryer,2026-02-10,Shipped,Paid,212.74
+ORD00220,CUST0138,PRD-085,Solace Night Cream,2026-01-17,Delivered,Paid,311.84
+ORD00221,CUST0144,PRD-006,Nova Wireless Earbuds,2026-05-19,Shipped,Pending,19.25
+ORD00222,CUST0227,PRD-026,Nova Fleece Hoodie,2025-11-25,Returned,Refunded,58.13
+ORD00223,CUST0097,PRD-069,Willow Coffee Grinder,2026-03-29,Delivered,Paid,130.12
+ORD00224,CUST0265,PRD-055,Sage Training Shoe,2026-01-18,Cancelled,Refunded,56.34
+ORD00225,CUST0260,PRD-015,Sage Wireless Earbuds,2026-02-18,Out for Delivery,Paid,103.96
+ORD00226,CUST0089,PRD-035,Sage Denim Jacket,2025-07-17,Delivered,Paid,171.52
+ORD00227,CUST0026,PRD-052,Meadow Training Shoe,2026-01-05,Delivered,Paid,235.38
+ORD00228,CUST0064,PRD-051,Summit Training Shoe,2025-02-01,Shipped,Pending,261.52
+ORD00229,CUST0243,PRD-062,Harbor Electric Kettle,2026-07-19,Shipped,Paid,39.61
+ORD00230,CUST0047,PRD-090,Lumen Gentle Cleanser,2025-10-19,Shipped,Pending,175.53
+ORD00231,CUST0114,PRD-008,Atlas Noise-Canceling Headphones,2025-08-19,Shipped,Paid,79.59
+ORD00232,CUST0005,PRD-053,Ember Trail Runner,2026-05-01,Shipped,Paid,106.91
+ORD00233,CUST0115,PRD-034,Coast Denim Jacket,2025-09-16,Delivered,Paid,20.95
+ORD00234,CUST0217,PRD-156,Drift Ceramic Mug Set,2026-01-21,Delivered,Paid,93.39
+ORD00235,CUST0267,PRD-090,Lumen Gentle Cleanser,2026-02-11,Out for Delivery,Paid,175.53
+ORD00236,CUST0288,PRD-150,Lumen Cast Iron Pan,2025-10-17,Processing,Paid,109.98
+ORD00237,CUST0142,PRD-077,Echo Coffee Grinder,2025-11-29,Delivered,Paid,171.81
+ORD00238,CUST0097,PRD-071,Summit Air Fryer,2025-06-03,Shipped,Paid,106.37
+ORD00239,CUST0164,PRD-133,Ember Resistance Band Set,2025-05-24,Delivered,Failed,259.64
+ORD00240,CUST0215,PRD-007,Pioneer Portable Speaker,2026-02-19,Delivered,Refunded,71.16
+ORD00241,CUST0176,PRD-100,Brook Vitamin C Set,2025-08-16,Delivered,Paid,162.02
+ORD00242,CUST0260,PRD-137,Echo Foam Roller,2025-11-04,Delivered,Paid,169.15
+ORD00243,CUST0151,PRD-044,Cedar Walking Shoe,2025-04-10,Delivered,Failed,26.45
+ORD00244,CUST0172,PRD-121,Nimbus Foam Roller,2025-04-02,Processing,Paid,114.18
+ORD00245,CUST0216,PRD-057,Echo Walking Shoe,2025-12-06,Shipped,Paid,56.97
+ORD00246,CUST0241,PRD-096,Drift Hydrating Serum,2025-02-24,Shipped,Paid,99.42
+ORD00247,CUST0100,PRD-150,Lumen Cast Iron Pan,2026-05-28,Delivered,Paid,219.96
+ORD00248,CUST0212,PRD-031,Summit Rain Jacket,2025-02-25,Delivered,Paid,166.51
+ORD00249,CUST0292,PRD-039,Aster Quilted Vest,2026-04-14,Processing,Paid,154.04
+ORD00250,CUST0250,PRD-037,Echo Fleece Hoodie,2025-12-07,Shipped,Paid,125.23
+ORD00251,CUST0141,PRD-046,Nova Trail Runner,2025-08-03,Shipped,Paid,124.38
+ORD00252,CUST0067,PRD-044,Cedar Walking Shoe,2026-03-21,Delivered,Paid,26.45
+ORD00253,CUST0003,PRD-110,Lumen Canvas Tote,2025-02-08,Shipped,Refunded,199.76
+ORD00254,CUST0165,PRD-137,Echo Foam Roller,2026-06-28,Processing,Paid,169.15
+ORD00255,CUST0116,PRD-049,Willow Walking Shoe,2025-12-19,Processing,Paid,54.38
+ORD00256,CUST0086,PRD-080,Brook Air Fryer,2025-03-08,Processing,Paid,98.85
+ORD00257,CUST0223,PRD-012,Meadow Studio Microphone,2025-05-18,Shipped,Paid,152.79
+ORD00258,CUST0085,PRD-088,Atlas Gentle Cleanser,2026-02-18,Returned,Refunded,117.14
+ORD00259,CUST0109,PRD-005,Solace Studio Microphone,2025-01-23,Shipped,Paid,103.36
+ORD00260,CUST0193,PRD-151,Summit Glass Storage Set,2025-09-19,Out for Delivery,Paid,151.97
+ORD00261,CUST0056,PRD-137,Echo Foam Roller,2025-01-21,Delivered,Paid,169.15
+ORD00262,CUST0064,PRD-013,Ember Noise-Canceling Headphones,2026-07-15,Delivered,Paid,177.16
+ORD00263,CUST0155,PRD-065,Solace Air Fryer,2026-03-07,Out for Delivery,Paid,161.50
+ORD00264,CUST0215,PRD-026,Nova Fleece Hoodie,2025-04-18,Delivered,Paid,58.13
+ORD00265,CUST0055,PRD-131,Summit Foam Roller,2026-05-25,Delivered,Paid,116.83
+ORD00266,CUST0184,PRD-051,Summit Training Shoe,2026-02-24,Delivered,Pending,130.76
+ORD00267,CUST0247,PRD-076,Drift Coffee Grinder,2025-12-05,Processing,Paid,23.64
+ORD00268,CUST0294,PRD-061,Nimbus Electric Kettle,2026-05-21,Processing,Paid,57.06
+ORD00269,CUST0132,PRD-039,Aster Quilted Vest,2025-08-25,Returned,Paid,77.02
+ORD00270,CUST0026,PRD-117,Echo Laptop Sleeve,2025-04-13,Returned,Refunded,216.74
+ORD00271,CUST0219,PRD-045,Solace Daily Runner,2025-04-29,Cancelled,Paid,133.25
+ORD00272,CUST0071,PRD-025,Solace Denim Jacket,2025-06-24,Delivered,Failed,177.15
+ORD00273,CUST0048,PRD-085,Solace Night Cream,2026-01-17,Shipped,Paid,155.92
+ORD00274,CUST0140,PRD-088,Atlas Gentle Cleanser,2026-01-30,Processing,Paid,234.28
+ORD00275,CUST0058,PRD-123,Orbit Insulated Bottle,2025-05-16,Delivered,Paid,112.56
+ORD00276,CUST0292,PRD-016,Drift Noise-Canceling Headphones,2026-03-25,Returned,Paid,112.56
+ORD00277,CUST0067,PRD-047,Pioneer Trail Runner,2026-05-10,Delivered,Pending,150.31
+ORD00278,CUST0033,PRD-125,Solace Insulated Bottle,2025-09-25,Processing,Paid,41.94
+ORD00279,CUST0174,PRD-081,Nimbus Night Cream,2026-06-16,Processing,Failed,132.05
+ORD00280,CUST0128,PRD-134,Coast Foam Roller,2026-05-09,Delivered,Paid,129.24
+ORD00281,CUST0286,PRD-089,Willow Vitamin C Set,2025-02-25,Delivered,Paid,103.16
+ORD00282,CUST0254,PRD-003,Orbit Studio Microphone,2025-06-19,Delivered,Paid,193.36
+ORD00283,CUST0143,PRD-020,Brook Wireless Earbuds,2025-02-21,Delivered,Paid,75.01
+ORD00284,CUST0121,PRD-130,Lumen Resistance Band Set,2025-03-22,Shipped,Paid,184.94
+ORD00285,CUST0256,PRD-118,Terra Canvas Tote,2026-04-03,Out for Delivery,Paid,99.01
+ORD00286,CUST0053,PRD-081,Nimbus Night Cream,2026-02-18,Processing,Paid,132.05
+ORD00287,CUST0156,PRD-106,Nova Crossbody Bag,2026-06-05,Processing,Paid,40.82
+ORD00288,CUST0187,PRD-144,Cedar Bamboo Organizer,2025-02-25,Shipped,Paid,169.30
+ORD00289,CUST0187,PRD-058,Terra Daily Runner,2026-04-09,Delivered,Paid,205.60
+ORD00290,CUST0175,PRD-030,Lumen Denim Jacket,2025-12-30,Processing,Paid,58.82
+ORD00291,CUST0024,PRD-075,Sage Air Fryer,2025-06-18,Delivered,Paid,172.35
+ORD00292,CUST0055,PRD-127,Pioneer Insulated Bottle,2025-09-18,Processing,Paid,259.72
+ORD00293,CUST0111,PRD-157,Echo Cast Iron Pan,2026-04-14,Processing,Paid,259.66
+ORD00294,CUST0024,PRD-049,Willow Walking Shoe,2025-05-07,Delivered,Paid,108.76
+ORD00295,CUST0256,PRD-116,Drift Travel Backpack,2025-01-05,Out for Delivery,Paid,38.84
+ORD00296,CUST0300,PRD-136,Drift Insulated Bottle,2026-05-10,Delivered,Paid,248.54
+ORD00297,CUST0066,PRD-131,Summit Foam Roller,2025-04-17,Delivered,Failed,116.83
+ORD00298,CUST0259,PRD-100,Brook Vitamin C Set,2026-01-29,Delivered,Paid,162.02
+ORD00299,CUST0204,PRD-108,Atlas Laptop Sleeve,2025-12-18,Returned,Pending,48.75
+ORD00300,CUST0263,PRD-076,Drift Coffee Grinder,2025-11-03,Out for Delivery,Paid,47.28
+ORD00301,CUST0103,PRD-141,Nimbus Glass Storage Set,2025-08-03,Delivered,Paid,95.35
+ORD00302,CUST0092,PRD-160,Brook Bamboo Organizer,2026-05-31,Delivered,Paid,141.42
+ORD00303,CUST0181,PRD-139,Aster Yoga Mat,2026-07-30,Delivered,Paid,84.95
+ORD00304,CUST0274,PRD-123,Orbit Insulated Bottle,2025-10-20,Delivered,Refunded,225.12
+ORD00305,CUST0196,PRD-109,Willow Canvas Tote,2025-05-29,Delivered,Paid,98.80
+ORD00306,CUST0147,PRD-014,Coast Portable Speaker,2025-09-14,Delivered,Paid,138.82
+ORD00307,CUST0105,PRD-038,Terra Rain Jacket,2026-07-09,Delivered,Paid,47.30
+ORD00308,CUST0288,PRD-009,Willow Portable Speaker,2026-02-03,Shipped,Paid,29.68
+ORD00309,CUST0025,PRD-061,Nimbus Electric Kettle,2026-01-26,Out for Delivery,Pending,57.06
+ORD00310,CUST0283,PRD-100,Brook Vitamin C Set,2025-02-25,Shipped,Pending,162.02
+ORD00311,CUST0116,PRD-004,Cedar Wireless Earbuds,2026-01-12,Delivered,Paid,147.84
+ORD00312,CUST0151,PRD-151,Summit Glass Storage Set,2026-04-05,Delivered,Paid,151.97
+ORD00313,CUST0264,PRD-046,Nova Trail Runner,2025-05-03,Returned,Refunded,62.19
+ORD00314,CUST0067,PRD-097,Echo Gentle Cleanser,2025-06-14,Processing,Paid,45.73
+ORD00315,CUST0080,PRD-150,Lumen Cast Iron Pan,2025-02-10,Delivered,Paid,219.96
+ORD00316,CUST0252,PRD-040,Brook Quilted Vest,2026-08-10,Cancelled,Refunded,55.91
+ORD00317,CUST0270,PRD-141,Nimbus Glass Storage Set,2025-08-14,Shipped,Pending,95.35
+ORD00318,CUST0213,PRD-048,Atlas Training Shoe,2026-07-11,Delivered,Pending,99.33
+ORD00319,CUST0170,PRD-138,Terra Resistance Band Set,2025-12-06,Shipped,Paid,57.28
+ORD00320,CUST0288,PRD-093,Ember Gentle Cleanser,2025-01-10,Shipped,Refunded,134.54
+ORD00321,CUST0021,PRD-030,Lumen Denim Jacket,2025-11-25,Delivered,Paid,58.82
+ORD00322,CUST0013,PRD-098,Terra Hydrating Serum,2026-06-14,Cancelled,Paid,151.69
+ORD00323,CUST0023,PRD-096,Drift Hydrating Serum,2025-10-31,Out for Delivery,Paid,198.84
+ORD00324,CUST0086,PRD-050,Lumen Walking Shoe,2026-07-05,Shipped,Paid,146.20
+ORD00325,CUST0218,PRD-137,Echo Foam Roller,2025-04-17,Processing,Paid,169.15
+ORD00326,CUST0037,PRD-053,Ember Trail Runner,2025-06-07,Delivered,Paid,213.82
+ORD00327,CUST0038,PRD-007,Pioneer Portable Speaker,2025-02-25,Out for Delivery,Paid,71.16
+ORD00328,CUST0133,PRD-046,Nova Trail Runner,2026-02-22,Delivered,Paid,62.19
+ORD00329,CUST0009,PRD-100,Brook Vitamin C Set,2026-02-03,Out for Delivery,Paid,162.02
+ORD00330,CUST0300,PRD-031,Summit Rain Jacket,2025-02-16,Delivered,Paid,166.51
+ORD00331,CUST0155,PRD-019,Aster Studio Microphone,2025-03-30,Shipped,Paid,29.06
+ORD00332,CUST0016,PRD-073,Ember Coffee Grinder,2026-05-01,Delivered,Paid,49.72
+ORD00333,CUST0280,PRD-041,Nimbus Training Shoe,2025-10-30,Delivered,Paid,328.88
+ORD00334,CUST0006,PRD-037,Echo Fleece Hoodie,2026-07-21,Shipped,Failed,125.23
+ORD00335,CUST0276,PRD-143,Orbit Bamboo Organizer,2026-07-15,Processing,Paid,209.38
+ORD00336,CUST0109,PRD-022,Harbor Fleece Hoodie,2026-02-27,Shipped,Paid,117.63
+ORD00337,CUST0100,PRD-132,Meadow Foam Roller,2025-04-28,Processing,Paid,54.43
+ORD00338,CUST0282,PRD-047,Pioneer Trail Runner,2026-04-18,Delivered,Paid,150.31
+ORD00339,CUST0051,PRD-141,Nimbus Glass Storage Set,2025-07-22,Processing,Paid,95.35
+ORD00340,CUST0121,PRD-149,Willow Glass Storage Set,2025-04-13,Out for Delivery,Paid,123.02
+ORD00341,CUST0249,PRD-073,Ember Coffee Grinder,2026-04-07,Delivered,Failed,24.86
+ORD00342,CUST0290,PRD-085,Solace Night Cream,2026-08-04,Delivered,Paid,155.92
+ORD00343,CUST0003,PRD-094,Coast Gentle Cleanser,2025-11-17,Delivered,Refunded,74.06
+ORD00344,CUST0142,PRD-064,Cedar Air Fryer,2026-01-04,Delivered,Paid,56.44
+ORD00345,CUST0237,PRD-035,Sage Denim Jacket,2026-04-02,Delivered,Paid,343.04
+ORD00346,CUST0090,PRD-092,Meadow Vitamin C Set,2025-03-25,Delivered,Paid,99.46
+ORD00347,CUST0135,PRD-072,Meadow Electric Kettle,2025-03-20,Delivered,Paid,67.65
+ORD00348,CUST0109,PRD-020,Brook Wireless Earbuds,2025-02-07,Cancelled,Paid,150.02
+ORD00349,CUST0077,PRD-142,Harbor Cast Iron Pan,2026-01-10,Shipped,Failed,128.48
+ORD00350,CUST0069,PRD-101,Nimbus Canvas Tote,2026-04-21,Shipped,Pending,57.67
+ORD00351,CUST0123,PRD-129,Willow Resistance Band Set,2025-06-19,Out for Delivery,Paid,108.86
+ORD00352,CUST0248,PRD-132,Meadow Foam Roller,2026-01-03,Processing,Paid,54.43
+ORD00353,CUST0136,PRD-011,Summit Studio Microphone,2026-01-14,Shipped,Paid,64.90
+ORD00354,CUST0199,PRD-060,Brook Walking Shoe,2026-04-26,Processing,Paid,59.09
+ORD00355,CUST0053,PRD-117,Echo Laptop Sleeve,2026-06-18,Cancelled,Refunded,108.37
+ORD00356,CUST0193,PRD-071,Summit Air Fryer,2026-01-23,Delivered,Paid,106.37
+ORD00357,CUST0265,PRD-094,Coast Gentle Cleanser,2025-09-15,Delivered,Failed,74.06
+ORD00358,CUST0181,PRD-097,Echo Gentle Cleanser,2025-12-20,Returned,Refunded,91.46
+ORD00359,CUST0257,PRD-125,Solace Insulated Bottle,2025-05-23,Delivered,Failed,41.94
+ORD00360,CUST0109,PRD-113,Ember Crossbody Bag,2025-06-03,Processing,Paid,160.96
+ORD00361,CUST0118,PRD-048,Atlas Training Shoe,2026-03-01,Processing,Paid,99.33
+ORD00362,CUST0246,PRD-085,Solace Night Cream,2025-08-04,Delivered,Paid,311.84
+ORD00363,CUST0125,PRD-152,Meadow Ceramic Mug Set,2025-02-14,Processing,Pending,47.93
+ORD00364,CUST0294,PRD-033,Ember Denim Jacket,2025-05-31,Delivered,Paid,149.74
+ORD00365,CUST0289,PRD-015,Sage Wireless Earbuds,2025-01-20,Processing,Failed,207.92
+ORD00366,CUST0247,PRD-073,Ember Coffee Grinder,2025-06-24,Returned,Refunded,49.72
+ORD00367,CUST0262,PRD-057,Echo Walking Shoe,2025-09-28,Delivered,Paid,56.97
+ORD00368,CUST0036,PRD-043,Orbit Training Shoe,2025-08-24,Delivered,Paid,349.08
+ORD00369,CUST0268,PRD-097,Echo Gentle Cleanser,2026-06-01,Shipped,Paid,45.73
+ORD00370,CUST0244,PRD-108,Atlas Laptop Sleeve,2025-02-09,Delivered,Paid,48.75
+ORD00371,CUST0067,PRD-137,Echo Foam Roller,2026-07-07,Out for Delivery,Paid,338.30
+ORD00372,CUST0190,PRD-001,Nimbus Portable Speaker,2025-02-14,Cancelled,Paid,136.98
+ORD00373,CUST0196,PRD-136,Drift Insulated Bottle,2025-12-25,Out for Delivery,Refunded,248.54
+ORD00374,CUST0218,PRD-151,Summit Glass Storage Set,2025-05-18,Delivered,Failed,151.97
+ORD00375,CUST0146,PRD-066,Nova Coffee Grinder,2026-07-11,Out for Delivery,Paid,59.04
+ORD00376,CUST0296,PRD-105,Solace Travel Backpack,2026-06-20,Shipped,Paid,69.70
+ORD00377,CUST0162,PRD-031,Summit Rain Jacket,2026-02-23,Out for Delivery,Paid,166.51
+ORD00378,CUST0134,PRD-093,Ember Gentle Cleanser,2026-07-03,Processing,Paid,67.27
+ORD00379,CUST0105,PRD-109,Willow Canvas Tote,2026-02-28,Delivered,Paid,197.60
+ORD00380,CUST0287,PRD-142,Harbor Cast Iron Pan,2026-07-23,Delivered,Paid,64.24
+ORD00381,CUST0204,PRD-124,Cedar Resistance Band Set,2025-05-22,Shipped,Paid,134.87
+ORD00382,CUST0052,PRD-031,Summit Rain Jacket,2025-08-08,Delivered,Paid,166.51
+ORD00383,CUST0083,PRD-131,Summit Foam Roller,2026-02-03,Shipped,Paid,116.83
+ORD00384,CUST0223,PRD-002,Harbor Wireless Earbuds,2025-04-01,Delivered,Pending,86.40
+ORD00385,CUST0197,PRD-017,Echo Noise-Canceling Headphones,2026-02-15,Shipped,Paid,141.15
+ORD00386,CUST0090,PRD-158,Terra Bamboo Organizer,2026-05-22,Delivered,Paid,173.09
+ORD00387,CUST0100,PRD-113,Ember Crossbody Bag,2025-02-04,Processing,Failed,160.96
+ORD00388,CUST0019,PRD-154,Coast Cast Iron Pan,2026-01-04,Out for Delivery,Paid,172.55
+ORD00389,CUST0142,PRD-062,Harbor Electric Kettle,2026-02-14,Delivered,Refunded,39.61
+ORD00390,CUST0266,PRD-091,Summit Night Cream,2025-01-16,Delivered,Paid,38.79
+ORD00391,CUST0178,PRD-018,Terra Studio Microphone,2025-10-11,Cancelled,Refunded,128.34
+ORD00392,CUST0295,PRD-058,Terra Daily Runner,2025-01-05,Delivered,Paid,205.60
+ORD00393,CUST0258,PRD-067,Pioneer Compact Blender,2025-10-29,Processing,Paid,158.26
+ORD00394,CUST0227,PRD-088,Atlas Gentle Cleanser,2026-01-22,Returned,Refunded,117.14
+ORD00395,CUST0235,PRD-145,Solace Glass Storage Set,2026-04-17,Out for Delivery,Paid,48.18
+ORD00396,CUST0035,PRD-151,Summit Glass Storage Set,2026-01-27,Delivered,Paid,151.97
+ORD00397,CUST0212,PRD-057,Echo Walking Shoe,2025-12-28,Delivered,Paid,56.97
+ORD00398,CUST0128,PRD-133,Ember Resistance Band Set,2025-10-22,Delivered,Paid,129.82
+ORD00399,CUST0039,PRD-024,Cedar Rain Jacket,2026-07-22,Shipped,Paid,173.15
+ORD00400,CUST0094,PRD-046,Nova Trail Runner,2025-07-14,Out for Delivery,Paid,62.19
+ORD00401,CUST0136,PRD-128,Atlas Insulated Bottle,2025-07-31,Delivered,Paid,159.40
+ORD00402,CUST0080,PRD-059,Aster Daily Runner,2025-04-20,Shipped,Paid,81.25
+ORD00403,CUST0004,PRD-031,Summit Rain Jacket,2026-07-09,Cancelled,Refunded,333.02
+ORD00404,CUST0253,PRD-011,Summit Studio Microphone,2025-10-09,Delivered,Paid,64.90
+ORD00405,CUST0204,PRD-126,Nova Yoga Mat,2025-08-16,Processing,Pending,48.91
+ORD00406,CUST0245,PRD-148,Atlas Cast Iron Pan,2026-07-08,Processing,Paid,98.48
+ORD00407,CUST0235,PRD-009,Willow Portable Speaker,2025-05-04,Out for Delivery,Paid,29.68
+ORD00408,CUST0108,PRD-133,Ember Resistance Band Set,2026-01-24,Out for Delivery,Paid,129.82
+ORD00409,CUST0096,PRD-149,Willow Glass Storage Set,2026-07-16,Processing,Paid,123.02
+ORD00410,CUST0188,PRD-068,Atlas Coffee Grinder,2025-07-08,Shipped,Paid,162.10
+ORD00411,CUST0187,PRD-128,Atlas Insulated Bottle,2026-02-15,Out for Delivery,Paid,159.40
+ORD00412,CUST0052,PRD-072,Meadow Electric Kettle,2025-10-04,Out for Delivery,Paid,67.65
+ORD00413,CUST0075,PRD-061,Nimbus Electric Kettle,2025-06-03,Delivered,Failed,57.06
+ORD00414,CUST0069,PRD-122,Harbor Insulated Bottle,2026-06-14,Delivered,Paid,300.30
+ORD00415,CUST0129,PRD-137,Echo Foam Roller,2026-07-30,Delivered,Pending,169.15
+ORD00416,CUST0031,PRD-146,Nova Cast Iron Pan,2025-08-09,Processing,Paid,110.01
+ORD00417,CUST0172,PRD-066,Nova Coffee Grinder,2025-09-24,Out for Delivery,Paid,118.08
+ORD00418,CUST0177,PRD-093,Ember Gentle Cleanser,2025-01-21,Shipped,Paid,67.27
+ORD00419,CUST0296,PRD-106,Nova Crossbody Bag,2026-07-06,Processing,Failed,40.82
+ORD00420,CUST0262,PRD-045,Solace Daily Runner,2026-05-15,Returned,Refunded,133.25
+ORD00421,CUST0238,PRD-115,Sage Travel Backpack,2025-05-29,Cancelled,Refunded,80.59
+ORD00422,CUST0293,PRD-043,Orbit Training Shoe,2026-02-19,Delivered,Failed,349.08
+ORD00423,CUST0163,PRD-019,Aster Studio Microphone,2025-10-26,Processing,Paid,29.06
+ORD00424,CUST0186,PRD-069,Willow Coffee Grinder,2026-06-18,Delivered,Paid,260.24
+ORD00425,CUST0065,PRD-116,Drift Travel Backpack,2025-08-29,Shipped,Paid,38.84
+ORD00426,CUST0204,PRD-065,Solace Air Fryer,2025-04-16,Returned,Paid,161.50
+ORD00427,CUST0014,PRD-025,Solace Denim Jacket,2026-02-11,Processing,Failed,177.15
+ORD00428,CUST0080,PRD-135,Sage Resistance Band Set,2025-03-28,Delivered,Paid,65.05
+ORD00429,CUST0227,PRD-100,Brook Vitamin C Set,2025-05-10,Shipped,Paid,162.02
+ORD00430,CUST0183,PRD-034,Coast Denim Jacket,2025-11-30,Delivered,Paid,20.95
+ORD00431,CUST0281,PRD-122,Harbor Insulated Bottle,2026-04-01,Out for Delivery,Failed,150.15
+ORD00432,CUST0234,PRD-035,Sage Denim Jacket,2026-08-01,Returned,Refunded,171.52
+ORD00433,CUST0178,PRD-112,Meadow Canvas Tote,2026-05-09,Delivered,Paid,64.29
+ORD00434,CUST0188,PRD-139,Aster Yoga Mat,2026-02-27,Shipped,Paid,84.95
+ORD00435,CUST0177,PRD-067,Pioneer Compact Blender,2025-10-21,Processing,Paid,158.26
+ORD00436,CUST0245,PRD-121,Nimbus Foam Roller,2025-11-03,Delivered,Paid,228.36
+ORD00437,CUST0004,PRD-003,Orbit Studio Microphone,2026-07-16,Delivered,Pending,96.68
+ORD00438,CUST0203,PRD-096,Drift Hydrating Serum,2025-09-13,Processing,Failed,198.84
+ORD00439,CUST0113,PRD-042,Harbor Training Shoe,2025-09-27,Delivered,Paid,185.58
+ORD00440,CUST0146,PRD-021,Nimbus Fleece Hoodie,2026-06-29,Out for Delivery,Paid,77.74
+ORD00441,CUST0070,PRD-069,Willow Coffee Grinder,2025-10-24,Shipped,Failed,130.12
+ORD00442,CUST0252,PRD-029,Willow Denim Jacket,2025-07-12,Delivered,Paid,28.68
+ORD00443,CUST0096,PRD-083,Orbit Gentle Cleanser,2025-04-15,Processing,Paid,163.59
+ORD00444,CUST0120,PRD-073,Ember Coffee Grinder,2025-04-03,Shipped,Paid,24.86
+ORD00445,CUST0160,PRD-039,Aster Quilted Vest,2026-05-26,Processing,Paid,154.04
+ORD00446,CUST0042,PRD-096,Drift Hydrating Serum,2025-05-30,Out for Delivery,Pending,99.42
+ORD00447,CUST0093,PRD-015,Sage Wireless Earbuds,2025-07-16,Shipped,Paid,207.92
+ORD00448,CUST0128,PRD-065,Solace Air Fryer,2026-01-30,Delivered,Pending,161.50
+ORD00449,CUST0236,PRD-114,Coast Travel Backpack,2025-04-07,Shipped,Refunded,82.89
+ORD00450,CUST0160,PRD-134,Coast Foam Roller,2025-11-27,Delivered,Paid,129.24
+ORD00451,CUST0130,PRD-041,Nimbus Training Shoe,2026-05-08,Delivered,Paid,164.44
+ORD00452,CUST0058,PRD-077,Echo Coffee Grinder,2025-08-30,Processing,Failed,171.81
+ORD00453,CUST0300,PRD-112,Meadow Canvas Tote,2025-05-03,Shipped,Paid,64.29
+ORD00454,CUST0298,PRD-102,Harbor Travel Backpack,2026-05-02,Delivered,Paid,43.61
+ORD00455,CUST0081,PRD-153,Ember Bamboo Organizer,2026-05-27,Processing,Pending,19.11
+ORD00456,CUST0031,PRD-024,Cedar Rain Jacket,2025-12-31,Delivered,Paid,173.15
+ORD00457,CUST0250,PRD-040,Brook Quilted Vest,2025-08-27,Delivered,Pending,55.91
+ORD00458,CUST0099,PRD-082,Harbor Vitamin C Set,2025-01-22,Returned,Pending,100.86
+ORD00459,CUST0249,PRD-097,Echo Gentle Cleanser,2026-03-25,Shipped,Paid,45.73
+ORD00460,CUST0291,PRD-144,Cedar Bamboo Organizer,2025-07-11,Shipped,Paid,169.30
+ORD00461,CUST0284,PRD-140,Brook Resistance Band Set,2025-06-14,Shipped,Paid,18.84
+ORD00462,CUST0278,PRD-018,Terra Studio Microphone,2026-01-11,Delivered,Paid,128.34
+ORD00463,CUST0095,PRD-117,Echo Laptop Sleeve,2025-01-20,Processing,Paid,216.74
+ORD00464,CUST0165,PRD-159,Aster Cast Iron Pan,2025-03-06,Delivered,Pending,85.37
+ORD00465,CUST0283,PRD-138,Terra Resistance Band Set,2025-06-07,Delivered,Paid,114.56
+ORD00466,CUST0057,PRD-157,Echo Cast Iron Pan,2025-04-09,Shipped,Paid,129.83
+ORD00467,CUST0092,PRD-134,Coast Foam Roller,2025-02-02,Delivered,Paid,64.62
+ORD00468,CUST0293,PRD-052,Meadow Training Shoe,2026-02-02,Processing,Paid,117.69
+ORD00469,CUST0026,PRD-126,Nova Yoga Mat,2026-01-11,Delivered,Paid,48.91
+ORD00470,CUST0252,PRD-057,Echo Walking Shoe,2025-03-23,Delivered,Paid,56.97
+ORD00471,CUST0189,PRD-120,Brook Crossbody Bag,2025-03-01,Delivered,Paid,142.26
+ORD00472,CUST0156,PRD-158,Terra Bamboo Organizer,2025-03-21,Shipped,Paid,173.09
+ORD00473,CUST0273,PRD-056,Drift Trail Runner,2026-01-30,Returned,Refunded,134.40
+ORD00474,CUST0286,PRD-049,Willow Walking Shoe,2026-07-26,Processing,Paid,54.38
+ORD00475,CUST0235,PRD-107,Pioneer Canvas Tote,2026-03-14,Delivered,Pending,58.22
+ORD00476,CUST0259,PRD-027,Pioneer Rain Jacket,2025-12-12,Processing,Paid,153.90
+ORD00477,CUST0162,PRD-041,Nimbus Training Shoe,2026-07-18,Delivered,Paid,164.44
+ORD00478,CUST0166,PRD-084,Cedar Night Cream,2025-09-04,Delivered,Paid,252.38
+ORD00479,CUST0185,PRD-145,Solace Glass Storage Set,2026-04-09,Delivered,Paid,48.18
+ORD00480,CUST0146,PRD-115,Sage Travel Backpack,2025-01-17,Returned,Refunded,80.59
+ORD00481,CUST0154,PRD-133,Ember Resistance Band Set,2025-08-16,Processing,Failed,129.82
+ORD00482,CUST0284,PRD-055,Sage Training Shoe,2026-06-08,Delivered,Paid,28.17
+ORD00483,CUST0020,PRD-143,Orbit Bamboo Organizer,2026-04-17,Delivered,Paid,104.69
+ORD00484,CUST0120,PRD-092,Meadow Vitamin C Set,2025-09-20,Processing,Paid,99.46
+ORD00485,CUST0040,PRD-077,Echo Coffee Grinder,2025-11-29,Processing,Paid,171.81
+ORD00486,CUST0154,PRD-124,Cedar Resistance Band Set,2025-02-08,Processing,Pending,134.87
+ORD00487,CUST0179,PRD-148,Atlas Cast Iron Pan,2026-03-21,Shipped,Pending,49.24
+ORD00488,CUST0006,PRD-107,Pioneer Canvas Tote,2026-01-27,Returned,Refunded,58.22
+ORD00489,CUST0168,PRD-014,Coast Portable Speaker,2026-05-30,Shipped,Paid,138.82
+ORD00490,CUST0229,PRD-057,Echo Walking Shoe,2026-06-01,Processing,Paid,113.94
+ORD00491,CUST0076,PRD-024,Cedar Rain Jacket,2025-05-16,Shipped,Paid,346.30
+ORD00492,CUST0281,PRD-087,Pioneer Vitamin C Set,2026-02-13,Processing,Paid,22.26
+ORD00493,CUST0070,PRD-068,Atlas Coffee Grinder,2026-05-08,Processing,Paid,162.10
+ORD00494,CUST0288,PRD-144,Cedar Bamboo Organizer,2026-06-21,Processing,Paid,169.30
+ORD00495,CUST0166,PRD-064,Cedar Air Fryer,2025-04-02,Shipped,Paid,56.44
+ORD00496,CUST0098,PRD-029,Willow Denim Jacket,2025-11-25,Delivered,Paid,28.68
+ORD00497,CUST0087,PRD-089,Willow Vitamin C Set,2025-12-25,Delivered,Paid,103.16
+ORD00498,CUST0226,PRD-158,Terra Bamboo Organizer,2025-02-15,Delivered,Pending,173.09
+ORD00499,CUST0058,PRD-060,Brook Walking Shoe,2025-02-25,Processing,Paid,59.09
+ORD00500,CUST0008,PRD-063,Orbit Air Fryer,2025-12-18,Returned,Failed,152.52
+ORD00501,CUST0108,PRD-029,Willow Denim Jacket,2026-07-05,Shipped,Paid,28.68
+ORD00502,CUST0281,PRD-055,Sage Training Shoe,2026-05-10,Shipped,Paid,28.17
+ORD00503,CUST0193,PRD-160,Brook Bamboo Organizer,2026-06-24,Delivered,Paid,141.42
+ORD00504,CUST0139,PRD-012,Meadow Studio Microphone,2025-02-24,Shipped,Paid,152.79
+ORD00505,CUST0139,PRD-120,Brook Crossbody Bag,2026-01-04,Delivered,Paid,142.26
+ORD00506,CUST0119,PRD-028,Atlas Denim Jacket,2026-01-25,Processing,Failed,255.96
+ORD00507,CUST0249,PRD-131,Summit Foam Roller,2026-06-29,Returned,Refunded,116.83
+ORD00508,CUST0288,PRD-023,Orbit Fleece Hoodie,2025-01-23,Processing,Paid,181.72
+ORD00509,CUST0251,PRD-011,Summit Studio Microphone,2026-02-07,Shipped,Paid,64.90
+ORD00510,CUST0155,PRD-041,Nimbus Training Shoe,2025-08-30,Processing,Paid,164.44
+ORD00511,CUST0199,PRD-129,Willow Resistance Band Set,2025-01-31,Shipped,Paid,108.86
+ORD00512,CUST0202,PRD-143,Orbit Bamboo Organizer,2025-05-21,Returned,Refunded,104.69
+ORD00513,CUST0214,PRD-023,Orbit Fleece Hoodie,2025-09-04,Delivered,Paid,90.86
+ORD00514,CUST0230,PRD-147,Pioneer Glass Storage Set,2026-07-10,Processing,Refunded,162.06
+ORD00515,CUST0071,PRD-034,Coast Denim Jacket,2025-11-13,Shipped,Paid,20.95
+ORD00516,CUST0290,PRD-135,Sage Resistance Band Set,2025-06-11,Cancelled,Refunded,65.05
+ORD00517,CUST0095,PRD-082,Harbor Vitamin C Set,2025-11-22,Processing,Paid,50.43
+ORD00518,CUST0211,PRD-038,Terra Rain Jacket,2025-11-07,Delivered,Pending,94.60
+ORD00519,CUST0078,PRD-114,Coast Travel Backpack,2025-07-12,Delivered,Pending,82.89
+ORD00520,CUST0291,PRD-028,Atlas Denim Jacket,2025-08-25,Processing,Paid,127.98
+ORD00521,CUST0041,PRD-153,Ember Bamboo Organizer,2026-05-04,Shipped,Paid,19.11
+ORD00522,CUST0095,PRD-035,Sage Denim Jacket,2026-02-01,Out for Delivery,Paid,171.52
+ORD00523,CUST0017,PRD-126,Nova Yoga Mat,2026-02-23,Out for Delivery,Paid,48.91
+ORD00524,CUST0105,PRD-004,Cedar Wireless Earbuds,2025-03-09,Cancelled,Paid,73.92
+ORD00525,CUST0167,PRD-046,Nova Trail Runner,2026-04-14,Cancelled,Failed,124.38
+ORD00526,CUST0161,PRD-064,Cedar Air Fryer,2026-02-08,Out for Delivery,Pending,56.44
+ORD00527,CUST0267,PRD-157,Echo Cast Iron Pan,2025-04-22,Returned,Refunded,129.83
+ORD00528,CUST0266,PRD-116,Drift Travel Backpack,2026-07-05,Out for Delivery,Failed,38.84
+ORD00529,CUST0265,PRD-102,Harbor Travel Backpack,2025-02-20,Returned,Refunded,87.22
+ORD00530,CUST0147,PRD-049,Willow Walking Shoe,2026-04-18,Shipped,Paid,54.38
+ORD00531,CUST0265,PRD-043,Orbit Training Shoe,2025-05-26,Out for Delivery,Paid,174.54
+ORD00532,CUST0093,PRD-119,Aster Laptop Sleeve,2026-07-14,Delivered,Paid,148.24
+ORD00533,CUST0092,PRD-035,Sage Denim Jacket,2026-04-10,Shipped,Paid,171.52
+ORD00534,CUST0129,PRD-152,Meadow Ceramic Mug Set,2025-11-28,Cancelled,Failed,47.93
+ORD00535,CUST0231,PRD-042,Harbor Training Shoe,2026-01-07,Delivered,Paid,92.79
+ORD00536,CUST0194,PRD-022,Harbor Fleece Hoodie,2026-07-18,Delivered,Paid,117.63
+ORD00537,CUST0290,PRD-098,Terra Hydrating Serum,2025-06-03,Processing,Paid,151.69
+ORD00538,CUST0215,PRD-042,Harbor Training Shoe,2025-11-12,Delivered,Paid,92.79
+ORD00539,CUST0093,PRD-080,Brook Air Fryer,2025-05-01,Delivered,Refunded,98.85
+ORD00540,CUST0007,PRD-034,Coast Denim Jacket,2026-04-15,Returned,Refunded,20.95
+ORD00541,CUST0253,PRD-128,Atlas Insulated Bottle,2025-09-01,Delivered,Paid,159.40
+ORD00542,CUST0227,PRD-056,Drift Trail Runner,2025-03-23,Delivered,Paid,268.80
+ORD00543,CUST0286,PRD-154,Coast Cast Iron Pan,2025-08-01,Delivered,Paid,172.55
+ORD00544,CUST0019,PRD-013,Ember Noise-Canceling Headphones,2025-05-29,Processing,Paid,88.58
+ORD00545,CUST0170,PRD-009,Willow Portable Speaker,2025-03-31,Delivered,Pending,29.68
+ORD00546,CUST0146,PRD-013,Ember Noise-Canceling Headphones,2026-08-10,Processing,Refunded,88.58
+ORD00547,CUST0019,PRD-144,Cedar Bamboo Organizer,2025-04-06,Processing,Paid,169.30
+ORD00548,CUST0219,PRD-077,Echo Coffee Grinder,2026-07-18,Shipped,Failed,171.81
+ORD00549,CUST0169,PRD-017,Echo Noise-Canceling Headphones,2026-06-24,Shipped,Paid,141.15
+ORD00550,CUST0056,PRD-106,Nova Crossbody Bag,2026-08-09,Delivered,Paid,40.82
+ORD00551,CUST0219,PRD-136,Drift Insulated Bottle,2025-11-21,Returned,Refunded,124.27
+ORD00552,CUST0067,PRD-067,Pioneer Compact Blender,2026-07-31,Delivered,Refunded,158.26
+ORD00553,CUST0093,PRD-128,Atlas Insulated Bottle,2025-08-27,Out for Delivery,Paid,318.80
+ORD00554,CUST0239,PRD-075,Sage Air Fryer,2025-05-01,Returned,Refunded,172.35
+ORD00555,CUST0024,PRD-054,Coast Trail Runner,2025-12-08,Delivered,Refunded,133.58
+ORD00556,CUST0104,PRD-090,Lumen Gentle Cleanser,2025-10-16,Delivered,Paid,175.53
+ORD00557,CUST0004,PRD-066,Nova Coffee Grinder,2025-04-27,Delivered,Paid,59.04
+ORD00558,CUST0090,PRD-086,Nova Gentle Cleanser,2025-07-18,Shipped,Paid,37.66
+ORD00559,CUST0243,PRD-085,Solace Night Cream,2025-02-06,Delivered,Failed,311.84
+ORD00560,CUST0237,PRD-035,Sage Denim Jacket,2026-02-28,Out for Delivery,Paid,171.52
+ORD00561,CUST0285,PRD-015,Sage Wireless Earbuds,2026-07-03,Delivered,Paid,103.96
+ORD00562,CUST0034,PRD-005,Solace Studio Microphone,2025-06-02,Shipped,Paid,103.36
+ORD00563,CUST0274,PRD-072,Meadow Electric Kettle,2025-06-19,Delivered,Paid,135.30
+ORD00564,CUST0158,PRD-147,Pioneer Glass Storage Set,2025-11-19,Delivered,Paid,162.06
+ORD00565,CUST0191,PRD-009,Willow Portable Speaker,2026-04-08,Shipped,Paid,29.68
+ORD00566,CUST0192,PRD-078,Terra Electric Kettle,2025-02-08,Shipped,Paid,78.27
+ORD00567,CUST0248,PRD-052,Meadow Training Shoe,2026-05-28,Cancelled,Refunded,117.69
+ORD00568,CUST0168,PRD-040,Brook Quilted Vest,2025-05-27,Processing,Failed,55.91
+ORD00569,CUST0106,PRD-026,Nova Fleece Hoodie,2025-02-07,Delivered,Refunded,58.13
+ORD00570,CUST0003,PRD-118,Terra Canvas Tote,2025-11-15,Shipped,Failed,99.01
+ORD00571,CUST0171,PRD-012,Meadow Studio Microphone,2026-04-24,Delivered,Paid,152.79
+ORD00572,CUST0012,PRD-012,Meadow Studio Microphone,2025-11-16,Processing,Pending,152.79
+ORD00573,CUST0273,PRD-054,Coast Trail Runner,2025-11-23,Shipped,Paid,66.79
+ORD00574,CUST0141,PRD-113,Ember Crossbody Bag,2025-04-28,Delivered,Paid,160.96
+ORD00575,CUST0106,PRD-004,Cedar Wireless Earbuds,2026-07-10,Returned,Refunded,73.92
+ORD00576,CUST0294,PRD-090,Lumen Gentle Cleanser,2025-09-08,Delivered,Paid,175.53
+ORD00577,CUST0277,PRD-044,Cedar Walking Shoe,2026-03-31,Processing,Paid,26.45
+ORD00578,CUST0055,PRD-013,Ember Noise-Canceling Headphones,2026-01-28,Processing,Paid,88.58
+ORD00579,CUST0183,PRD-014,Coast Portable Speaker,2025-11-16,Processing,Paid,277.64
+ORD00580,CUST0239,PRD-086,Nova Gentle Cleanser,2026-08-05,Delivered,Paid,37.66
+ORD00581,CUST0050,PRD-034,Coast Denim Jacket,2026-04-12,Processing,Pending,41.90
+ORD00582,CUST0241,PRD-080,Brook Air Fryer,2025-08-26,Delivered,Paid,197.70
+ORD00583,CUST0187,PRD-058,Terra Daily Runner,2026-02-06,Processing,Failed,102.80
+ORD00584,CUST0233,PRD-047,Pioneer Trail Runner,2026-05-15,Delivered,Paid,150.31
+ORD00585,CUST0237,PRD-008,Atlas Noise-Canceling Headphones,2025-06-24,Processing,Paid,159.18
+ORD00586,CUST0261,PRD-073,Ember Coffee Grinder,2025-04-16,Delivered,Paid,24.86
+ORD00587,CUST0285,PRD-104,Cedar Laptop Sleeve,2025-03-14,Delivered,Pending,176.01
+ORD00588,CUST0123,PRD-078,Terra Electric Kettle,2025-09-07,Delivered,Paid,156.54
+ORD00589,CUST0175,PRD-141,Nimbus Glass Storage Set,2025-08-02,Processing,Paid,95.35
+ORD00590,CUST0279,PRD-152,Meadow Ceramic Mug Set,2025-08-30,Out for Delivery,Refunded,47.93
+ORD00591,CUST0059,PRD-045,Solace Daily Runner,2026-04-20,Delivered,Paid,266.50
+ORD00592,CUST0158,PRD-084,Cedar Night Cream,2026-02-20,Delivered,Pending,126.19
+ORD00593,CUST0168,PRD-018,Terra Studio Microphone,2026-05-22,Delivered,Paid,256.68
+ORD00594,CUST0076,PRD-016,Drift Noise-Canceling Headphones,2025-06-02,Processing,Pending,56.28
+ORD00595,CUST0101,PRD-116,Drift Travel Backpack,2025-07-30,Delivered,Paid,77.68
+ORD00596,CUST0223,PRD-082,Harbor Vitamin C Set,2025-12-19,Shipped,Pending,50.43
+ORD00597,CUST0066,PRD-023,Orbit Fleece Hoodie,2025-10-29,Delivered,Paid,181.72
+ORD00598,CUST0001,PRD-016,Drift Noise-Canceling Headphones,2026-07-28,Shipped,Paid,56.28
+ORD00599,CUST0121,PRD-092,Meadow Vitamin C Set,2026-03-19,Processing,Paid,99.46
+ORD00600,CUST0208,PRD-152,Meadow Ceramic Mug Set,2026-01-26,Shipped,Paid,95.86
+ORD00601,CUST0072,PRD-112,Meadow Canvas Tote,2025-07-12,Delivered,Paid,128.58
+ORD00602,CUST0079,PRD-143,Orbit Bamboo Organizer,2025-10-23,Shipped,Failed,209.38
+ORD00603,CUST0074,PRD-033,Ember Denim Jacket,2026-05-14,Processing,Paid,149.74
+ORD00604,CUST0213,PRD-112,Meadow Canvas Tote,2026-04-12,Returned,Refunded,64.29
+ORD00605,CUST0261,PRD-155,Sage Ceramic Mug Set,2026-03-11,Returned,Refunded,120.74
+ORD00606,CUST0096,PRD-142,Harbor Cast Iron Pan,2026-03-11,Delivered,Paid,64.24
+ORD00607,CUST0257,PRD-155,Sage Ceramic Mug Set,2025-10-03,Processing,Paid,60.37
+ORD00608,CUST0020,PRD-106,Nova Crossbody Bag,2026-08-05,Cancelled,Refunded,40.82
+ORD00609,CUST0041,PRD-124,Cedar Resistance Band Set,2025-05-26,Delivered,Paid,269.74
+ORD00610,CUST0265,PRD-135,Sage Resistance Band Set,2025-03-22,Returned,Pending,130.10
+ORD00611,CUST0040,PRD-134,Coast Foam Roller,2026-07-07,Cancelled,Refunded,129.24
+ORD00612,CUST0274,PRD-149,Willow Glass Storage Set,2025-01-12,Shipped,Paid,123.02
+ORD00613,CUST0216,PRD-121,Nimbus Foam Roller,2025-12-28,Out for Delivery,Failed,114.18
+ORD00614,CUST0289,PRD-076,Drift Coffee Grinder,2025-09-24,Shipped,Paid,23.64
+ORD00615,CUST0150,PRD-016,Drift Noise-Canceling Headphones,2025-01-28,Delivered,Paid,56.28
+ORD00616,CUST0143,PRD-074,Coast Compact Blender,2025-09-16,Out for Delivery,Paid,30.16
+ORD00617,CUST0008,PRD-034,Coast Denim Jacket,2025-04-25,Delivered,Paid,20.95
+ORD00618,CUST0229,PRD-155,Sage Ceramic Mug Set,2026-01-14,Processing,Paid,60.37
+ORD00619,CUST0093,PRD-045,Solace Daily Runner,2026-06-25,Shipped,Paid,266.50
+ORD00620,CUST0079,PRD-009,Willow Portable Speaker,2026-05-23,Shipped,Paid,29.68
+ORD00621,CUST0086,PRD-106,Nova Crossbody Bag,2025-08-04,Delivered,Paid,81.64
+ORD00622,CUST0060,PRD-148,Atlas Cast Iron Pan,2025-02-23,Delivered,Paid,49.24
+ORD00623,CUST0273,PRD-043,Orbit Training Shoe,2025-08-28,Out for Delivery,Paid,349.08
+ORD00624,CUST0075,PRD-098,Terra Hydrating Serum,2026-06-28,Delivered,Paid,151.69
+ORD00625,CUST0196,PRD-112,Meadow Canvas Tote,2025-11-20,Processing,Failed,128.58
+ORD00626,CUST0222,PRD-136,Drift Insulated Bottle,2025-10-07,Delivered,Paid,124.27
+ORD00627,CUST0300,PRD-086,Nova Gentle Cleanser,2026-02-05,Shipped,Pending,37.66
+ORD00628,CUST0267,PRD-119,Aster Laptop Sleeve,2025-12-12,Delivered,Paid,148.24
+ORD00629,CUST0035,PRD-047,Pioneer Trail Runner,2025-01-13,Shipped,Paid,150.31
+ORD00630,CUST0180,PRD-106,Nova Crossbody Bag,2025-08-13,Processing,Paid,81.64
+ORD00631,CUST0030,PRD-073,Ember Coffee Grinder,2025-08-11,Shipped,Paid,24.86
+ORD00632,CUST0045,PRD-154,Coast Cast Iron Pan,2025-05-14,Delivered,Paid,172.55
+ORD00633,CUST0057,PRD-097,Echo Gentle Cleanser,2025-07-08,Delivered,Failed,45.73
+ORD00634,CUST0233,PRD-065,Solace Air Fryer,2025-10-11,Shipped,Paid,161.50
+ORD00635,CUST0132,PRD-110,Lumen Canvas Tote,2025-06-15,Delivered,Paid,99.88
+ORD00636,CUST0171,PRD-019,Aster Studio Microphone,2025-03-03,Shipped,Paid,58.12
+ORD00637,CUST0036,PRD-067,Pioneer Compact Blender,2026-05-19,Returned,Refunded,316.52
+ORD00638,CUST0056,PRD-052,Meadow Training Shoe,2025-05-28,Delivered,Paid,235.38
+ORD00639,CUST0227,PRD-139,Aster Yoga Mat,2025-09-23,Delivered,Paid,84.95
+ORD00640,CUST0229,PRD-027,Pioneer Rain Jacket,2025-01-20,Processing,Paid,76.95
+ORD00641,CUST0200,PRD-128,Atlas Insulated Bottle,2025-09-30,Processing,Paid,159.40
+ORD00642,CUST0264,PRD-039,Aster Quilted Vest,2026-05-18,Delivered,Failed,77.02
+ORD00643,CUST0277,PRD-123,Orbit Insulated Bottle,2025-08-20,Out for Delivery,Pending,112.56
+ORD00644,CUST0063,PRD-001,Nimbus Portable Speaker,2026-08-04,Shipped,Paid,136.98
+ORD00645,CUST0206,PRD-138,Terra Resistance Band Set,2025-02-26,Returned,Refunded,57.28
+ORD00646,CUST0042,PRD-024,Cedar Rain Jacket,2026-04-16,Shipped,Failed,173.15
+ORD00647,CUST0197,PRD-075,Sage Air Fryer,2025-07-15,Delivered,Paid,172.35
+ORD00648,CUST0250,PRD-077,Echo Coffee Grinder,2025-03-28,Delivered,Failed,171.81
+ORD00649,CUST0013,PRD-113,Ember Crossbody Bag,2025-09-02,Delivered,Paid,160.96
+ORD00650,CUST0256,PRD-126,Nova Yoga Mat,2026-07-01,Shipped,Pending,48.91
+ORD00651,CUST0029,PRD-116,Drift Travel Backpack,2025-12-12,Returned,Refunded,38.84
+ORD00652,CUST0275,PRD-011,Summit Studio Microphone,2025-06-02,Shipped,Paid,129.80
+ORD00653,CUST0251,PRD-149,Willow Glass Storage Set,2025-01-20,Shipped,Paid,123.02
+ORD00654,CUST0067,PRD-121,Nimbus Foam Roller,2025-01-15,Cancelled,Refunded,114.18
+ORD00655,CUST0234,PRD-045,Solace Daily Runner,2025-06-24,Delivered,Failed,133.25
+ORD00656,CUST0255,PRD-152,Meadow Ceramic Mug Set,2025-08-14,Processing,Pending,47.93
+ORD00657,CUST0167,PRD-017,Echo Noise-Canceling Headphones,2025-05-04,Delivered,Paid,282.30
+ORD00658,CUST0024,PRD-148,Atlas Cast Iron Pan,2025-06-27,Delivered,Paid,49.24
+ORD00659,CUST0087,PRD-086,Nova Gentle Cleanser,2026-01-14,Processing,Paid,75.32
+ORD00660,CUST0069,PRD-142,Harbor Cast Iron Pan,2025-04-13,Processing,Paid,64.24
+ORD00661,CUST0042,PRD-157,Echo Cast Iron Pan,2025-01-07,Shipped,Paid,259.66
+ORD00662,CUST0214,PRD-002,Harbor Wireless Earbuds,2026-05-03,Processing,Paid,43.20
+ORD00663,CUST0211,PRD-033,Ember Denim Jacket,2025-09-02,Shipped,Paid,299.48
+ORD00664,CUST0256,PRD-045,Solace Daily Runner,2025-04-01,Delivered,Paid,133.25
+ORD00665,CUST0099,PRD-078,Terra Electric Kettle,2025-05-01,Shipped,Paid,78.27
+ORD00666,CUST0238,PRD-136,Drift Insulated Bottle,2025-08-02,Returned,Refunded,124.27
+ORD00667,CUST0243,PRD-071,Summit Air Fryer,2026-05-25,Processing,Paid,106.37
+ORD00668,CUST0187,PRD-046,Nova Trail Runner,2025-10-19,Processing,Failed,62.19
+ORD00669,CUST0023,PRD-054,Coast Trail Runner,2025-04-17,Out for Delivery,Paid,133.58
+ORD00670,CUST0249,PRD-014,Coast Portable Speaker,2026-06-12,Cancelled,Refunded,138.82
+ORD00671,CUST0297,PRD-030,Lumen Denim Jacket,2025-11-30,Processing,Paid,117.64
+ORD00672,CUST0118,PRD-108,Atlas Laptop Sleeve,2025-04-23,Processing,Paid,48.75
+ORD00673,CUST0103,PRD-084,Cedar Night Cream,2026-01-20,Shipped,Paid,252.38
+ORD00674,CUST0224,PRD-057,Echo Walking Shoe,2025-05-29,Processing,Paid,56.97
+ORD00675,CUST0192,PRD-056,Drift Trail Runner,2025-05-20,Cancelled,Refunded,268.80
+ORD00676,CUST0104,PRD-118,Terra Canvas Tote,2025-12-10,Delivered,Paid,99.01
+ORD00677,CUST0070,PRD-033,Ember Denim Jacket,2025-04-24,Processing,Paid,149.74
+ORD00678,CUST0113,PRD-120,Brook Crossbody Bag,2025-10-30,Out for Delivery,Paid,71.13
+ORD00679,CUST0296,PRD-155,Sage Ceramic Mug Set,2026-07-21,Processing,Pending,60.37
+ORD00680,CUST0111,PRD-059,Aster Daily Runner,2026-04-30,Processing,Failed,162.50
+ORD00681,CUST0127,PRD-119,Aster Laptop Sleeve,2025-12-02,Shipped,Paid,148.24
+ORD00682,CUST0294,PRD-112,Meadow Canvas Tote,2025-01-06,Delivered,Failed,64.29
+ORD00683,CUST0259,PRD-107,Pioneer Canvas Tote,2025-02-04,Returned,Refunded,116.44
+ORD00684,CUST0232,PRD-109,Willow Canvas Tote,2026-05-23,Delivered,Paid,98.80
+ORD00685,CUST0112,PRD-062,Harbor Electric Kettle,2025-05-16,Processing,Pending,79.22
+ORD00686,CUST0009,PRD-092,Meadow Vitamin C Set,2026-05-07,Shipped,Paid,99.46
+ORD00687,CUST0233,PRD-079,Aster Coffee Grinder,2026-04-20,Processing,Paid,68.93
+ORD00688,CUST0238,PRD-036,Drift Rain Jacket,2025-01-02,Cancelled,Refunded,43.10
+ORD00689,CUST0152,PRD-019,Aster Studio Microphone,2026-03-13,Shipped,Paid,29.06
+ORD00690,CUST0042,PRD-070,Lumen Compact Blender,2025-12-10,Delivered,Paid,135.79
+ORD00691,CUST0027,PRD-015,Sage Wireless Earbuds,2025-04-24,Out for Delivery,Failed,103.96
+ORD00692,CUST0188,PRD-099,Aster Night Cream,2025-06-29,Shipped,Paid,123.48
+ORD00693,CUST0071,PRD-144,Cedar Bamboo Organizer,2025-12-09,Delivered,Paid,169.30
+ORD00694,CUST0116,PRD-062,Harbor Electric Kettle,2025-11-25,Delivered,Paid,39.61
+ORD00695,CUST0142,PRD-091,Summit Night Cream,2025-02-25,Cancelled,Refunded,77.58
+ORD00696,CUST0241,PRD-017,Echo Noise-Canceling Headphones,2026-06-29,Shipped,Paid,141.15
+ORD00697,CUST0034,PRD-137,Echo Foam Roller,2025-07-12,Cancelled,Refunded,169.15
+ORD00698,CUST0148,PRD-118,Terra Canvas Tote,2025-03-20,Processing,Paid,99.01
+ORD00699,CUST0255,PRD-028,Atlas Denim Jacket,2025-06-04,Processing,Paid,127.98
+ORD00700,CUST0214,PRD-053,Ember Trail Runner,2026-07-09,Delivered,Paid,106.91
+ORD00701,CUST0150,PRD-034,Coast Denim Jacket,2025-07-13,Out for Delivery,Paid,20.95
+ORD00702,CUST0211,PRD-017,Echo Noise-Canceling Headphones,2025-12-18,Processing,Pending,141.15
+ORD00703,CUST0235,PRD-084,Cedar Night Cream,2025-11-08,Out for Delivery,Paid,252.38
+ORD00704,CUST0134,PRD-146,Nova Cast Iron Pan,2025-08-21,Processing,Pending,110.01
+ORD00705,CUST0076,PRD-124,Cedar Resistance Band Set,2025-12-28,Shipped,Paid,134.87
+ORD00706,CUST0275,PRD-073,Ember Coffee Grinder,2025-10-20,Out for Delivery,Paid,24.86
+ORD00707,CUST0083,PRD-047,Pioneer Trail Runner,2025-09-01,Returned,Paid,150.31
+ORD00708,CUST0226,PRD-030,Lumen Denim Jacket,2025-09-24,Processing,Paid,58.82
+ORD00709,CUST0163,PRD-095,Sage Gentle Cleanser,2025-12-19,Processing,Paid,120.88
+ORD00710,CUST0274,PRD-038,Terra Rain Jacket,2025-11-05,Shipped,Paid,47.30
+ORD00711,CUST0075,PRD-032,Meadow Quilted Vest,2026-04-15,Cancelled,Refunded,77.78
+ORD00712,CUST0152,PRD-082,Harbor Vitamin C Set,2026-05-01,Processing,Refunded,50.43
+ORD00713,CUST0290,PRD-075,Sage Air Fryer,2026-03-29,Returned,Refunded,172.35
+ORD00714,CUST0072,PRD-087,Pioneer Vitamin C Set,2026-07-19,Delivered,Paid,22.26
+ORD00715,CUST0229,PRD-030,Lumen Denim Jacket,2026-01-01,Shipped,Paid,58.82
+ORD00716,CUST0299,PRD-024,Cedar Rain Jacket,2026-06-24,Shipped,Paid,173.15
+ORD00717,CUST0012,PRD-057,Echo Walking Shoe,2025-03-27,Delivered,Pending,56.97
+ORD00718,CUST0263,PRD-138,Terra Resistance Band Set,2026-02-08,Delivered,Paid,57.28
+ORD00719,CUST0185,PRD-050,Lumen Walking Shoe,2026-02-12,Out for Delivery,Paid,146.20
+ORD00720,CUST0191,PRD-038,Terra Rain Jacket,2025-01-13,Delivered,Paid,94.60
+ORD00721,CUST0288,PRD-073,Ember Coffee Grinder,2025-03-31,Shipped,Paid,49.72
+ORD00722,CUST0227,PRD-056,Drift Trail Runner,2025-10-23,Delivered,Paid,268.80
+ORD00723,CUST0213,PRD-042,Harbor Training Shoe,2025-05-23,Delivered,Refunded,185.58
+ORD00724,CUST0244,PRD-151,Summit Glass Storage Set,2026-06-22,Delivered,Paid,151.97
+ORD00725,CUST0046,PRD-086,Nova Gentle Cleanser,2025-01-07,Processing,Refunded,75.32
+ORD00726,CUST0285,PRD-105,Solace Travel Backpack,2026-04-19,Delivered,Paid,69.70
+ORD00727,CUST0196,PRD-146,Nova Cast Iron Pan,2025-10-24,Delivered,Paid,110.01
+ORD00728,CUST0300,PRD-142,Harbor Cast Iron Pan,2025-11-08,Out for Delivery,Pending,64.24
+ORD00729,CUST0002,PRD-127,Pioneer Insulated Bottle,2025-06-07,Delivered,Paid,129.86
+ORD00730,CUST0064,PRD-068,Atlas Coffee Grinder,2025-10-22,Shipped,Paid,324.20
+ORD00731,CUST0015,PRD-107,Pioneer Canvas Tote,2025-05-03,Processing,Failed,58.22
+ORD00732,CUST0298,PRD-071,Summit Air Fryer,2026-05-08,Out for Delivery,Refunded,106.37
+ORD00733,CUST0062,PRD-145,Solace Glass Storage Set,2026-01-18,Out for Delivery,Paid,96.36
+ORD00734,CUST0084,PRD-132,Meadow Foam Roller,2025-03-01,Delivered,Paid,54.43
+ORD00735,CUST0183,PRD-038,Terra Rain Jacket,2025-06-17,Shipped,Failed,47.30
+ORD00736,CUST0025,PRD-014,Coast Portable Speaker,2025-10-24,Shipped,Paid,138.82
+ORD00737,CUST0094,PRD-075,Sage Air Fryer,2025-04-07,Delivered,Refunded,172.35
+ORD00738,CUST0155,PRD-154,Coast Cast Iron Pan,2025-10-05,Delivered,Paid,172.55
+ORD00739,CUST0007,PRD-093,Ember Gentle Cleanser,2025-05-21,Processing,Paid,67.27
+ORD00740,CUST0175,PRD-133,Ember Resistance Band Set,2025-06-16,Shipped,Pending,259.64
+ORD00741,CUST0287,PRD-027,Pioneer Rain Jacket,2026-06-23,Shipped,Paid,76.95
+ORD00742,CUST0214,PRD-137,Echo Foam Roller,2026-04-17,Delivered,Paid,169.15
+ORD00743,CUST0246,PRD-020,Brook Wireless Earbuds,2025-12-23,Processing,Paid,75.01
+ORD00744,CUST0268,PRD-080,Brook Air Fryer,2025-12-17,Delivered,Paid,197.70
+ORD00745,CUST0114,PRD-045,Solace Daily Runner,2025-05-12,Delivered,Paid,133.25
+ORD00746,CUST0067,PRD-037,Echo Fleece Hoodie,2025-03-22,Delivered,Paid,125.23
+ORD00747,CUST0010,PRD-109,Willow Canvas Tote,2026-05-11,Delivered,Pending,98.80
+ORD00748,CUST0241,PRD-111,Summit Travel Backpack,2025-05-02,Processing,Paid,26.19
+ORD00749,CUST0050,PRD-065,Solace Air Fryer,2025-05-07,Processing,Paid,161.50
+ORD00750,CUST0180,PRD-155,Sage Ceramic Mug Set,2025-01-30,Shipped,Failed,60.37
+ORD00751,CUST0297,PRD-024,Cedar Rain Jacket,2025-12-23,Processing,Paid,173.15
+ORD00752,CUST0259,PRD-091,Summit Night Cream,2026-08-07,Processing,Paid,38.79
+ORD00753,CUST0271,PRD-018,Terra Studio Microphone,2025-08-11,Processing,Paid,128.34
+ORD00754,CUST0051,PRD-050,Lumen Walking Shoe,2025-08-08,Returned,Refunded,146.20
+ORD00755,CUST0226,PRD-130,Lumen Resistance Band Set,2025-04-20,Delivered,Paid,92.47
+ORD00756,CUST0110,PRD-047,Pioneer Trail Runner,2026-06-11,Delivered,Refunded,300.62
+ORD00757,CUST0064,PRD-059,Aster Daily Runner,2026-04-23,Shipped,Pending,81.25
+ORD00758,CUST0148,PRD-029,Willow Denim Jacket,2026-07-25,Out for Delivery,Paid,28.68
+ORD00759,CUST0146,PRD-011,Summit Studio Microphone,2026-04-13,Processing,Paid,129.80
+ORD00760,CUST0116,PRD-154,Coast Cast Iron Pan,2026-07-22,Delivered,Paid,345.10
+ORD00761,CUST0036,PRD-105,Solace Travel Backpack,2026-05-03,Shipped,Failed,69.70
+ORD00762,CUST0054,PRD-095,Sage Gentle Cleanser,2026-02-10,Processing,Refunded,241.76
+ORD00763,CUST0074,PRD-113,Ember Crossbody Bag,2026-02-09,Delivered,Paid,160.96
+ORD00764,CUST0034,PRD-103,Orbit Laptop Sleeve,2026-01-08,Delivered,Refunded,116.28
+ORD00765,CUST0063,PRD-051,Summit Training Shoe,2025-08-27,Shipped,Paid,261.52
+ORD00766,CUST0205,PRD-109,Willow Canvas Tote,2025-12-31,Delivered,Paid,98.80
+ORD00767,CUST0262,PRD-122,Harbor Insulated Bottle,2025-10-13,Delivered,Refunded,300.30
+ORD00768,CUST0251,PRD-038,Terra Rain Jacket,2026-05-25,Delivered,Paid,47.30
+ORD00769,CUST0028,PRD-060,Brook Walking Shoe,2025-03-11,Delivered,Paid,59.09
+ORD00770,CUST0168,PRD-128,Atlas Insulated Bottle,2025-06-06,Delivered,Refunded,318.80
+ORD00771,CUST0267,PRD-078,Terra Electric Kettle,2026-05-20,Delivered,Paid,78.27
+ORD00772,CUST0259,PRD-120,Brook Crossbody Bag,2025-09-25,Shipped,Paid,142.26
+ORD00773,CUST0017,PRD-139,Aster Yoga Mat,2026-03-17,Shipped,Failed,84.95
+ORD00774,CUST0227,PRD-031,Summit Rain Jacket,2026-04-16,Shipped,Paid,333.02
+ORD00775,CUST0085,PRD-010,Lumen Wireless Earbuds,2026-05-19,Processing,Paid,157.66
+ORD00776,CUST0057,PRD-111,Summit Travel Backpack,2026-08-06,Processing,Paid,52.38
+ORD00777,CUST0244,PRD-126,Nova Yoga Mat,2026-07-30,Delivered,Paid,97.82
+ORD00778,CUST0194,PRD-041,Nimbus Training Shoe,2025-12-28,Out for Delivery,Paid,328.88
+ORD00779,CUST0066,PRD-073,Ember Coffee Grinder,2026-01-11,Shipped,Paid,24.86
+ORD00780,CUST0195,PRD-090,Lumen Gentle Cleanser,2025-04-10,Delivered,Paid,175.53
+ORD00781,CUST0029,PRD-110,Lumen Canvas Tote,2025-09-08,Shipped,Paid,99.88
+ORD00782,CUST0034,PRD-064,Cedar Air Fryer,2025-11-09,Shipped,Paid,28.22
+ORD00783,CUST0020,PRD-030,Lumen Denim Jacket,2026-04-17,Shipped,Paid,58.82
+ORD00784,CUST0011,PRD-109,Willow Canvas Tote,2026-04-26,Delivered,Failed,98.80
+ORD00785,CUST0166,PRD-151,Summit Glass Storage Set,2026-08-10,Processing,Paid,303.94
+ORD00786,CUST0173,PRD-026,Nova Fleece Hoodie,2026-05-24,Delivered,Paid,58.13
+ORD00787,CUST0154,PRD-129,Willow Resistance Band Set,2026-01-08,Delivered,Paid,108.86
+ORD00788,CUST0275,PRD-112,Meadow Canvas Tote,2025-08-08,Shipped,Paid,64.29
+ORD00789,CUST0116,PRD-074,Coast Compact Blender,2025-04-05,Shipped,Paid,60.32
+ORD00790,CUST0291,PRD-149,Willow Glass Storage Set,2026-06-28,Processing,Paid,123.02
+ORD00791,CUST0155,PRD-122,Harbor Insulated Bottle,2026-06-01,Out for Delivery,Paid,150.15
+ORD00792,CUST0213,PRD-077,Echo Coffee Grinder,2026-02-16,Out for Delivery,Paid,171.81
+ORD00793,CUST0010,PRD-065,Solace Air Fryer,2026-06-13,Delivered,Paid,161.50
+ORD00794,CUST0138,PRD-048,Atlas Training Shoe,2026-06-30,Delivered,Paid,198.66
+ORD00795,CUST0268,PRD-158,Terra Bamboo Organizer,2025-07-25,Delivered,Failed,173.09
+ORD00796,CUST0223,PRD-094,Coast Gentle Cleanser,2026-02-25,Out for Delivery,Paid,74.06
+ORD00797,CUST0212,PRD-082,Harbor Vitamin C Set,2025-10-01,Delivered,Failed,50.43
+ORD00798,CUST0208,PRD-074,Coast Compact Blender,2025-09-02,Delivered,Paid,30.16
+ORD00799,CUST0238,PRD-030,Lumen Denim Jacket,2026-05-13,Processing,Paid,58.82
+ORD00800,CUST0104,PRD-144,Cedar Bamboo Organizer,2025-06-13,Returned,Refunded,169.30
+ORD00801,CUST0282,PRD-070,Lumen Compact Blender,2025-06-30,Processing,Paid,135.79
+ORD00802,CUST0029,PRD-011,Summit Studio Microphone,2025-03-27,Returned,Refunded,64.90
+ORD00803,CUST0187,PRD-081,Nimbus Night Cream,2025-04-03,Delivered,Failed,264.10
+ORD00804,CUST0293,PRD-102,Harbor Travel Backpack,2026-05-28,Returned,Paid,43.61
+ORD00805,CUST0255,PRD-031,Summit Rain Jacket,2025-04-03,Delivered,Pending,166.51
+ORD00806,CUST0169,PRD-061,Nimbus Electric Kettle,2026-02-04,Delivered,Pending,57.06
+ORD00807,CUST0090,PRD-061,Nimbus Electric Kettle,2025-08-08,Returned,Refunded,57.06
+ORD00808,CUST0252,PRD-071,Summit Air Fryer,2026-07-01,Out for Delivery,Paid,106.37
+ORD00809,CUST0244,PRD-096,Drift Hydrating Serum,2025-09-10,Delivered,Paid,198.84
+ORD00810,CUST0158,PRD-072,Meadow Electric Kettle,2025-01-22,Cancelled,Paid,67.65
+ORD00811,CUST0123,PRD-156,Drift Ceramic Mug Set,2025-09-17,Processing,Paid,93.39
+ORD00812,CUST0063,PRD-142,Harbor Cast Iron Pan,2026-07-02,Shipped,Paid,64.24
+ORD00813,CUST0131,PRD-061,Nimbus Electric Kettle,2025-11-05,Delivered,Paid,114.12
+ORD00814,CUST0225,PRD-024,Cedar Rain Jacket,2025-11-21,Returned,Paid,173.15
+ORD00815,CUST0252,PRD-105,Solace Travel Backpack,2026-04-28,Delivered,Paid,69.70
+ORD00816,CUST0052,PRD-106,Nova Crossbody Bag,2025-06-14,Cancelled,Refunded,81.64
+ORD00817,CUST0233,PRD-067,Pioneer Compact Blender,2025-01-29,Out for Delivery,Paid,158.26
+ORD00818,CUST0070,PRD-014,Coast Portable Speaker,2025-01-04,Delivered,Paid,277.64
+ORD00819,CUST0057,PRD-103,Orbit Laptop Sleeve,2025-06-11,Shipped,Paid,116.28
+ORD00820,CUST0211,PRD-064,Cedar Air Fryer,2025-11-24,Out for Delivery,Refunded,28.22
+ORD00821,CUST0089,PRD-116,Drift Travel Backpack,2025-12-02,Out for Delivery,Paid,38.84
+ORD00822,CUST0202,PRD-073,Ember Coffee Grinder,2026-01-22,Processing,Paid,24.86
+ORD00823,CUST0046,PRD-147,Pioneer Glass Storage Set,2026-04-19,Shipped,Refunded,162.06
+ORD00824,CUST0206,PRD-051,Summit Training Shoe,2026-03-16,Shipped,Failed,130.76
+ORD00825,CUST0088,PRD-154,Coast Cast Iron Pan,2026-08-04,Shipped,Paid,172.55
+ORD00826,CUST0254,PRD-031,Summit Rain Jacket,2025-05-02,Processing,Paid,333.02
+ORD00827,CUST0148,PRD-058,Terra Daily Runner,2026-05-22,Delivered,Paid,102.80
+ORD00828,CUST0145,PRD-098,Terra Hydrating Serum,2025-07-13,Processing,Failed,151.69
+ORD00829,CUST0149,PRD-108,Atlas Laptop Sleeve,2025-09-26,Processing,Pending,48.75
+ORD00830,CUST0299,PRD-061,Nimbus Electric Kettle,2026-04-15,Delivered,Failed,57.06
+ORD00831,CUST0204,PRD-022,Harbor Fleece Hoodie,2025-08-06,Processing,Paid,117.63
+ORD00832,CUST0038,PRD-099,Aster Night Cream,2025-04-08,Delivered,Paid,123.48
+ORD00833,CUST0242,PRD-143,Orbit Bamboo Organizer,2025-12-29,Processing,Paid,104.69
+ORD00834,CUST0003,PRD-156,Drift Ceramic Mug Set,2025-09-17,Returned,Paid,93.39
+ORD00835,CUST0190,PRD-130,Lumen Resistance Band Set,2025-05-16,Delivered,Paid,184.94
+ORD00836,CUST0258,PRD-144,Cedar Bamboo Organizer,2026-05-20,Processing,Paid,169.30
+ORD00837,CUST0272,PRD-087,Pioneer Vitamin C Set,2026-03-20,Cancelled,Refunded,22.26
+ORD00838,CUST0256,PRD-037,Echo Fleece Hoodie,2025-10-15,Shipped,Paid,125.23
+ORD00839,CUST0136,PRD-093,Ember Gentle Cleanser,2026-06-14,Cancelled,Refunded,67.27
+ORD00840,CUST0078,PRD-081,Nimbus Night Cream,2026-07-24,Out for Delivery,Paid,264.10
+ORD00841,CUST0094,PRD-113,Ember Crossbody Bag,2025-02-06,Processing,Paid,160.96
+ORD00842,CUST0060,PRD-121,Nimbus Foam Roller,2026-05-22,Shipped,Paid,228.36
+ORD00843,CUST0235,PRD-011,Summit Studio Microphone,2026-05-20,Out for Delivery,Refunded,129.80
+ORD00844,CUST0179,PRD-029,Willow Denim Jacket,2025-04-06,Delivered,Failed,28.68
+ORD00845,CUST0261,PRD-053,Ember Trail Runner,2025-10-07,Delivered,Paid,106.91
+ORD00846,CUST0270,PRD-145,Solace Glass Storage Set,2026-08-08,Cancelled,Refunded,48.18
+ORD00847,CUST0049,PRD-047,Pioneer Trail Runner,2025-12-03,Shipped,Paid,300.62
+ORD00848,CUST0202,PRD-007,Pioneer Portable Speaker,2026-01-18,Shipped,Refunded,71.16
+ORD00849,CUST0079,PRD-152,Meadow Ceramic Mug Set,2025-01-30,Cancelled,Refunded,47.93
+ORD00850,CUST0233,PRD-021,Nimbus Fleece Hoodie,2025-10-03,Out for Delivery,Paid,155.48
+ORD00851,CUST0232,PRD-153,Ember Bamboo Organizer,2025-11-29,Delivered,Paid,19.11
+ORD00852,CUST0166,PRD-146,Nova Cast Iron Pan,2025-02-26,Processing,Failed,110.01
+ORD00853,CUST0205,PRD-019,Aster Studio Microphone,2025-09-19,Delivered,Paid,29.06
+ORD00854,CUST0046,PRD-046,Nova Trail Runner,2025-01-22,Shipped,Pending,124.38
+ORD00855,CUST0079,PRD-054,Coast Trail Runner,2025-05-04,Processing,Pending,66.79
+ORD00856,CUST0068,PRD-077,Echo Coffee Grinder,2026-01-03,Out for Delivery,Paid,171.81
+ORD00857,CUST0229,PRD-025,Solace Denim Jacket,2026-02-02,Delivered,Paid,354.30
+ORD00858,CUST0217,PRD-122,Harbor Insulated Bottle,2026-01-13,Shipped,Paid,150.15
+ORD00859,CUST0021,PRD-158,Terra Bamboo Organizer,2026-06-10,Processing,Paid,173.09
+ORD00860,CUST0254,PRD-088,Atlas Gentle Cleanser,2026-06-24,Returned,Refunded,117.14
+ORD00861,CUST0245,PRD-135,Sage Resistance Band Set,2025-11-04,Processing,Paid,65.05
+ORD00862,CUST0128,PRD-039,Aster Quilted Vest,2026-06-20,Returned,Refunded,77.02
+ORD00863,CUST0024,PRD-110,Lumen Canvas Tote,2026-06-10,Shipped,Paid,99.88
+ORD00864,CUST0292,PRD-028,Atlas Denim Jacket,2025-09-17,Out for Delivery,Paid,255.96
+ORD00865,CUST0059,PRD-091,Summit Night Cream,2026-04-19,Shipped,Paid,38.79
+ORD00866,CUST0043,PRD-046,Nova Trail Runner,2026-03-03,Delivered,Pending,62.19
+ORD00867,CUST0136,PRD-077,Echo Coffee Grinder,2025-12-16,Shipped,Paid,343.62
+ORD00868,CUST0055,PRD-048,Atlas Training Shoe,2026-03-21,Shipped,Paid,99.33
+ORD00869,CUST0088,PRD-137,Echo Foam Roller,2026-05-04,Processing,Paid,169.15
+ORD00870,CUST0156,PRD-118,Terra Canvas Tote,2026-01-05,Delivered,Failed,198.02
+ORD00871,CUST0008,PRD-102,Harbor Travel Backpack,2025-07-15,Delivered,Paid,43.61
+ORD00872,CUST0014,PRD-029,Willow Denim Jacket,2025-08-03,Delivered,Paid,28.68
+ORD00873,CUST0276,PRD-124,Cedar Resistance Band Set,2025-07-15,Delivered,Paid,269.74
+ORD00874,CUST0217,PRD-023,Orbit Fleece Hoodie,2025-01-23,Shipped,Paid,181.72
+ORD00875,CUST0249,PRD-030,Lumen Denim Jacket,2026-04-28,Processing,Paid,117.64
+ORD00876,CUST0151,PRD-006,Nova Wireless Earbuds,2026-08-07,Delivered,Paid,19.25
+ORD00877,CUST0213,PRD-101,Nimbus Canvas Tote,2026-05-23,Processing,Paid,115.34
+ORD00878,CUST0019,PRD-149,Willow Glass Storage Set,2026-05-15,Delivered,Paid,123.02
+ORD00879,CUST0119,PRD-103,Orbit Laptop Sleeve,2025-03-04,Out for Delivery,Paid,232.56
+ORD00880,CUST0138,PRD-136,Drift Insulated Bottle,2026-03-04,Processing,Paid,124.27
+ORD00881,CUST0230,PRD-122,Harbor Insulated Bottle,2026-03-23,Processing,Paid,150.15
+ORD00882,CUST0177,PRD-006,Nova Wireless Earbuds,2026-03-25,Processing,Paid,38.50
+ORD00883,CUST0240,PRD-060,Brook Walking Shoe,2025-05-15,Out for Delivery,Paid,59.09
+ORD00884,CUST0185,PRD-076,Drift Coffee Grinder,2026-04-29,Delivered,Paid,47.28
+ORD00885,CUST0248,PRD-042,Harbor Training Shoe,2025-05-13,Delivered,Paid,92.79
+ORD00886,CUST0213,PRD-045,Solace Daily Runner,2026-05-21,Processing,Paid,133.25
+ORD00887,CUST0184,PRD-078,Terra Electric Kettle,2025-09-25,Shipped,Paid,78.27
+ORD00888,CUST0033,PRD-092,Meadow Vitamin C Set,2025-12-12,Delivered,Paid,99.46
+ORD00889,CUST0250,PRD-111,Summit Travel Backpack,2025-09-22,Processing,Paid,26.19
+ORD00890,CUST0078,PRD-088,Atlas Gentle Cleanser,2026-06-12,Delivered,Pending,117.14
+ORD00891,CUST0235,PRD-155,Sage Ceramic Mug Set,2025-04-24,Delivered,Paid,120.74
+ORD00892,CUST0288,PRD-028,Atlas Denim Jacket,2025-02-12,Delivered,Paid,127.98
+ORD00893,CUST0186,PRD-130,Lumen Resistance Band Set,2025-06-10,Processing,Paid,92.47
+ORD00894,CUST0051,PRD-075,Sage Air Fryer,2025-06-07,Delivered,Pending,344.70
+ORD00895,CUST0225,PRD-094,Coast Gentle Cleanser,2026-03-02,Shipped,Paid,74.06
+ORD00896,CUST0147,PRD-002,Harbor Wireless Earbuds,2026-06-02,Shipped,Pending,43.20
+ORD00897,CUST0185,PRD-044,Cedar Walking Shoe,2025-09-09,Processing,Paid,52.90
+ORD00898,CUST0071,PRD-039,Aster Quilted Vest,2026-03-16,Delivered,Paid,77.02
+ORD00899,CUST0016,PRD-106,Nova Crossbody Bag,2026-03-30,Cancelled,Refunded,40.82
+ORD00900,CUST0044,PRD-038,Terra Rain Jacket,2025-12-13,Delivered,Paid,47.30
+ORD00901,CUST0032,PRD-081,Nimbus Night Cream,2026-02-07,Shipped,Pending,264.10
+ORD00902,CUST0267,PRD-010,Lumen Wireless Earbuds,2025-10-30,Delivered,Paid,157.66
+ORD00903,CUST0161,PRD-108,Atlas Laptop Sleeve,2025-12-19,Shipped,Paid,48.75
+ORD00904,CUST0207,PRD-003,Orbit Studio Microphone,2026-04-02,Delivered,Failed,96.68
+ORD00905,CUST0177,PRD-053,Ember Trail Runner,2026-02-19,Cancelled,Refunded,213.82
+ORD00906,CUST0200,PRD-051,Summit Training Shoe,2025-05-10,Cancelled,Refunded,130.76
+ORD00907,CUST0262,PRD-134,Coast Foam Roller,2026-07-20,Returned,Refunded,64.62
+ORD00908,CUST0012,PRD-080,Brook Air Fryer,2025-01-29,Delivered,Pending,98.85
+ORD00909,CUST0217,PRD-139,Aster Yoga Mat,2026-06-02,Delivered,Paid,84.95
+ORD00910,CUST0260,PRD-029,Willow Denim Jacket,2025-12-29,Delivered,Pending,28.68
+ORD00911,CUST0230,PRD-032,Meadow Quilted Vest,2025-11-02,Processing,Paid,38.89
+ORD00912,CUST0298,PRD-147,Pioneer Glass Storage Set,2026-08-03,Delivered,Paid,162.06
+ORD00913,CUST0146,PRD-137,Echo Foam Roller,2026-08-10,Delivered,Paid,169.15
+ORD00914,CUST0054,PRD-036,Drift Rain Jacket,2025-12-02,Delivered,Paid,43.10
+ORD00915,CUST0233,PRD-133,Ember Resistance Band Set,2025-04-11,Delivered,Pending,129.82
+ORD00916,CUST0048,PRD-038,Terra Rain Jacket,2025-03-05,Delivered,Pending,47.30
+ORD00917,CUST0040,PRD-109,Willow Canvas Tote,2026-01-14,Cancelled,Refunded,197.60
+ORD00918,CUST0136,PRD-135,Sage Resistance Band Set,2026-05-26,Shipped,Paid,130.10
+ORD00919,CUST0214,PRD-109,Willow Canvas Tote,2025-06-16,Returned,Refunded,197.60
+ORD00920,CUST0067,PRD-037,Echo Fleece Hoodie,2026-06-10,Out for Delivery,Paid,250.46
+ORD00921,CUST0017,PRD-136,Drift Insulated Bottle,2025-06-10,Processing,Paid,248.54
+ORD00922,CUST0057,PRD-144,Cedar Bamboo Organizer,2025-05-04,Shipped,Refunded,338.60
+ORD00923,CUST0061,PRD-095,Sage Gentle Cleanser,2026-01-16,Delivered,Paid,120.88
+ORD00924,CUST0015,PRD-079,Aster Coffee Grinder,2025-05-27,Returned,Refunded,137.86
+ORD00925,CUST0146,PRD-037,Echo Fleece Hoodie,2025-08-09,Delivered,Paid,125.23
+ORD00926,CUST0281,PRD-047,Pioneer Trail Runner,2025-12-24,Delivered,Paid,150.31
+ORD00927,CUST0290,PRD-018,Terra Studio Microphone,2026-04-09,Cancelled,Refunded,128.34
+ORD00928,CUST0071,PRD-087,Pioneer Vitamin C Set,2026-06-01,Delivered,Paid,22.26
+ORD00929,CUST0167,PRD-118,Terra Canvas Tote,2025-04-02,Delivered,Paid,99.01
+ORD00930,CUST0203,PRD-160,Brook Bamboo Organizer,2025-12-14,Delivered,Paid,141.42
+ORD00931,CUST0143,PRD-139,Aster Yoga Mat,2025-04-01,Processing,Paid,169.90
+ORD00932,CUST0288,PRD-043,Orbit Training Shoe,2025-05-07,Delivered,Paid,174.54
+ORD00933,CUST0292,PRD-144,Cedar Bamboo Organizer,2026-06-19,Processing,Refunded,169.30
+ORD00934,CUST0062,PRD-049,Willow Walking Shoe,2026-06-29,Delivered,Paid,54.38
+ORD00935,CUST0126,PRD-047,Pioneer Trail Runner,2026-03-31,Returned,Refunded,150.31
+ORD00936,CUST0024,PRD-022,Harbor Fleece Hoodie,2026-05-19,Delivered,Paid,235.26
+ORD00937,CUST0271,PRD-006,Nova Wireless Earbuds,2025-11-21,Shipped,Paid,19.25
+ORD00938,CUST0278,PRD-098,Terra Hydrating Serum,2025-06-22,Shipped,Paid,151.69
+ORD00939,CUST0079,PRD-074,Coast Compact Blender,2025-11-11,Processing,Paid,30.16
+ORD00940,CUST0093,PRD-105,Solace Travel Backpack,2025-01-28,Delivered,Paid,69.70
+ORD00941,CUST0212,PRD-015,Sage Wireless Earbuds,2025-11-28,Shipped,Paid,103.96
+ORD00942,CUST0027,PRD-067,Pioneer Compact Blender,2025-07-27,Shipped,Pending,158.26
+ORD00943,CUST0261,PRD-062,Harbor Electric Kettle,2026-06-01,Delivered,Paid,79.22
+ORD00944,CUST0238,PRD-099,Aster Night Cream,2026-07-21,Returned,Refunded,123.48
+ORD00945,CUST0010,PRD-105,Solace Travel Backpack,2025-10-03,Processing,Paid,69.70
+ORD00946,CUST0285,PRD-142,Harbor Cast Iron Pan,2025-05-09,Returned,Refunded,64.24
+ORD00947,CUST0073,PRD-078,Terra Electric Kettle,2026-01-18,Delivered,Paid,78.27
+ORD00948,CUST0285,PRD-139,Aster Yoga Mat,2026-04-08,Returned,Paid,169.90
+ORD00949,CUST0086,PRD-011,Summit Studio Microphone,2025-01-01,Processing,Paid,64.90
+ORD00950,CUST0195,PRD-016,Drift Noise-Canceling Headphones,2025-12-26,Returned,Refunded,56.28
+ORD00951,CUST0083,PRD-055,Sage Training Shoe,2026-07-01,Delivered,Paid,28.17
+ORD00952,CUST0072,PRD-145,Solace Glass Storage Set,2026-07-24,Processing,Paid,48.18
+ORD00953,CUST0176,PRD-072,Meadow Electric Kettle,2025-09-25,Cancelled,Refunded,67.65
+ORD00954,CUST0175,PRD-116,Drift Travel Backpack,2025-08-04,Shipped,Paid,38.84
+ORD00955,CUST0002,PRD-118,Terra Canvas Tote,2026-05-03,Returned,Refunded,99.01
+ORD00956,CUST0285,PRD-002,Harbor Wireless Earbuds,2026-05-16,Cancelled,Refunded,86.40
+ORD00957,CUST0276,PRD-101,Nimbus Canvas Tote,2025-02-01,Delivered,Pending,57.67
+ORD00958,CUST0184,PRD-114,Coast Travel Backpack,2026-02-01,Delivered,Paid,165.78
+ORD00959,CUST0064,PRD-046,Nova Trail Runner,2026-04-19,Delivered,Pending,62.19
+ORD00960,CUST0011,PRD-095,Sage Gentle Cleanser,2025-10-15,Returned,Refunded,120.88
+ORD00961,CUST0114,PRD-092,Meadow Vitamin C Set,2025-08-28,Processing,Pending,99.46
+ORD00962,CUST0108,PRD-127,Pioneer Insulated Bottle,2025-01-08,Returned,Refunded,259.72
+ORD00963,CUST0143,PRD-051,Summit Training Shoe,2026-08-06,Returned,Refunded,130.76
+ORD00964,CUST0034,PRD-129,Willow Resistance Band Set,2025-05-12,Out for Delivery,Paid,108.86
+ORD00965,CUST0268,PRD-017,Echo Noise-Canceling Headphones,2025-10-08,Processing,Refunded,141.15
+ORD00966,CUST0287,PRD-050,Lumen Walking Shoe,2026-04-10,Delivered,Paid,146.20
+ORD00967,CUST0166,PRD-001,Nimbus Portable Speaker,2026-03-19,Returned,Refunded,68.49
+ORD00968,CUST0254,PRD-105,Solace Travel Backpack,2026-01-06,Shipped,Paid,139.40
+ORD00969,CUST0025,PRD-133,Ember Resistance Band Set,2025-10-12,Delivered,Failed,129.82
+ORD00970,CUST0100,PRD-108,Atlas Laptop Sleeve,2025-12-09,Delivered,Paid,97.50
+ORD00971,CUST0217,PRD-021,Nimbus Fleece Hoodie,2025-03-18,Cancelled,Refunded,77.74
+ORD00972,CUST0050,PRD-064,Cedar Air Fryer,2025-01-29,Processing,Paid,28.22
+ORD00973,CUST0129,PRD-123,Orbit Insulated Bottle,2025-09-11,Out for Delivery,Paid,112.56
+ORD00974,CUST0171,PRD-028,Atlas Denim Jacket,2026-06-17,Out for Delivery,Refunded,127.98
+ORD00975,CUST0229,PRD-061,Nimbus Electric Kettle,2025-05-08,Returned,Paid,57.06
+ORD00976,CUST0066,PRD-022,Harbor Fleece Hoodie,2025-03-05,Returned,Paid,117.63
+ORD00977,CUST0034,PRD-114,Coast Travel Backpack,2025-04-15,Processing,Paid,165.78
+ORD00978,CUST0206,PRD-015,Sage Wireless Earbuds,2025-04-09,Delivered,Paid,207.92
+ORD00979,CUST0233,PRD-159,Aster Cast Iron Pan,2026-01-29,Delivered,Paid,85.37
+ORD00980,CUST0174,PRD-119,Aster Laptop Sleeve,2025-01-27,Delivered,Failed,148.24
+ORD00981,CUST0053,PRD-117,Echo Laptop Sleeve,2025-01-13,Out for Delivery,Paid,108.37
+ORD00982,CUST0294,PRD-153,Ember Bamboo Organizer,2025-05-10,Delivered,Paid,19.11
+ORD00983,CUST0096,PRD-131,Summit Foam Roller,2025-09-06,Shipped,Paid,233.66
+ORD00984,CUST0300,PRD-036,Drift Rain Jacket,2026-03-23,Delivered,Paid,43.10
+ORD00985,CUST0076,PRD-132,Meadow Foam Roller,2026-04-26,Returned,Paid,54.43
+ORD00986,CUST0266,PRD-080,Brook Air Fryer,2025-05-29,Delivered,Paid,98.85
+ORD00987,CUST0217,PRD-015,Sage Wireless Earbuds,2025-12-19,Shipped,Pending,103.96
+ORD00988,CUST0036,PRD-051,Summit Training Shoe,2025-12-16,Returned,Refunded,130.76
+ORD00989,CUST0170,PRD-049,Willow Walking Shoe,2026-08-03,Delivered,Paid,108.76
+ORD00990,CUST0054,PRD-086,Nova Gentle Cleanser,2026-04-11,Delivered,Paid,37.66
+ORD00991,CUST0118,PRD-011,Summit Studio Microphone,2026-04-23,Out for Delivery,Failed,64.90
+ORD00992,CUST0193,PRD-160,Brook Bamboo Organizer,2025-07-30,Shipped,Paid,141.42
+ORD00993,CUST0006,PRD-103,Orbit Laptop Sleeve,2025-03-17,Processing,Refunded,116.28
+ORD00994,CUST0226,PRD-092,Meadow Vitamin C Set,2025-07-19,Processing,Paid,99.46
+ORD00995,CUST0102,PRD-150,Lumen Cast Iron Pan,2025-07-22,Cancelled,Refunded,109.98
+ORD00996,CUST0174,PRD-073,Ember Coffee Grinder,2026-07-22,Processing,Failed,24.86
+ORD00997,CUST0052,PRD-063,Orbit Air Fryer,2025-01-22,Processing,Paid,152.52
+ORD00998,CUST0174,PRD-036,Drift Rain Jacket,2025-08-04,Shipped,Pending,43.10
+ORD00999,CUST0088,PRD-079,Aster Coffee Grinder,2026-06-24,Out for Delivery,Paid,68.93
+ORD01000,CUST0067,PRD-160,Brook Bamboo Organizer,2025-07-14,Cancelled,Paid,141.42
+ORD01001,CUST0220,PRD-050,Lumen Walking Shoe,2025-09-08,Delivered,Paid,146.20
+ORD01002,CUST0077,PRD-012,Meadow Studio Microphone,2025-12-02,Delivered,Paid,152.79
+ORD01003,CUST0261,PRD-064,Cedar Air Fryer,2026-05-16,Processing,Pending,28.22
+ORD01004,CUST0086,PRD-054,Coast Trail Runner,2026-06-05,Delivered,Pending,66.79
+ORD01005,CUST0256,PRD-100,Brook Vitamin C Set,2026-06-16,Delivered,Paid,162.02
+ORD01006,CUST0254,PRD-119,Aster Laptop Sleeve,2026-05-01,Processing,Paid,296.48
+ORD01007,CUST0107,PRD-069,Willow Coffee Grinder,2025-08-13,Delivered,Paid,130.12
+ORD01008,CUST0157,PRD-052,Meadow Training Shoe,2026-03-12,Out for Delivery,Paid,117.69
+ORD01009,CUST0131,PRD-097,Echo Gentle Cleanser,2026-07-18,Delivered,Refunded,45.73
+ORD01010,CUST0266,PRD-022,Harbor Fleece Hoodie,2025-12-27,Processing,Paid,235.26
+ORD01011,CUST0219,PRD-059,Aster Daily Runner,2026-04-07,Delivered,Paid,81.25
+ORD01012,CUST0163,PRD-120,Brook Crossbody Bag,2025-10-07,Out for Delivery,Paid,142.26
+ORD01013,CUST0039,PRD-098,Terra Hydrating Serum,2026-01-03,Processing,Paid,151.69
+ORD01014,CUST0142,PRD-022,Harbor Fleece Hoodie,2025-08-22,Shipped,Paid,117.63
+ORD01015,CUST0171,PRD-026,Nova Fleece Hoodie,2025-07-21,Processing,Paid,58.13
+ORD01016,CUST0098,PRD-085,Solace Night Cream,2025-05-22,Shipped,Paid,155.92
+ORD01017,CUST0145,PRD-140,Brook Resistance Band Set,2025-12-21,Cancelled,Refunded,18.84
+ORD01018,CUST0242,PRD-104,Cedar Laptop Sleeve,2026-06-09,Returned,Pending,176.01
+ORD01019,CUST0243,PRD-039,Aster Quilted Vest,2025-08-28,Delivered,Paid,77.02
+ORD01020,CUST0237,PRD-133,Ember Resistance Band Set,2025-12-15,Delivered,Paid,259.64
+ORD01021,CUST0108,PRD-022,Harbor Fleece Hoodie,2026-03-26,Shipped,Paid,235.26
+ORD01022,CUST0296,PRD-116,Drift Travel Backpack,2025-05-12,Delivered,Paid,38.84
+ORD01023,CUST0174,PRD-079,Aster Coffee Grinder,2025-08-19,Returned,Refunded,68.93
+ORD01024,CUST0167,PRD-108,Atlas Laptop Sleeve,2025-01-24,Out for Delivery,Pending,48.75
+ORD01025,CUST0170,PRD-146,Nova Cast Iron Pan,2026-08-05,Delivered,Failed,110.01
+ORD01026,CUST0196,PRD-155,Sage Ceramic Mug Set,2025-07-29,Cancelled,Refunded,120.74
+ORD01027,CUST0056,PRD-101,Nimbus Canvas Tote,2025-12-03,Processing,Paid,115.34
+ORD01028,CUST0048,PRD-146,Nova Cast Iron Pan,2025-06-25,Returned,Refunded,110.01
+ORD01029,CUST0014,PRD-027,Pioneer Rain Jacket,2025-07-11,Delivered,Paid,153.90
+ORD01030,CUST0106,PRD-051,Summit Training Shoe,2025-08-27,Processing,Refunded,130.76
+ORD01031,CUST0189,PRD-075,Sage Air Fryer,2026-06-15,Delivered,Paid,172.35
+ORD01032,CUST0201,PRD-003,Orbit Studio Microphone,2025-06-10,Processing,Failed,193.36
+ORD01033,CUST0200,PRD-029,Willow Denim Jacket,2025-07-31,Processing,Paid,28.68
+ORD01034,CUST0082,PRD-034,Coast Denim Jacket,2025-11-14,Cancelled,Refunded,41.90
+ORD01035,CUST0142,PRD-151,Summit Glass Storage Set,2025-07-26,Shipped,Paid,303.94
+ORD01036,CUST0127,PRD-002,Harbor Wireless Earbuds,2026-06-23,Returned,Refunded,86.40
+ORD01037,CUST0047,PRD-085,Solace Night Cream,2025-10-22,Cancelled,Paid,155.92
+ORD01038,CUST0201,PRD-117,Echo Laptop Sleeve,2025-06-29,Shipped,Pending,108.37
+ORD01039,CUST0235,PRD-107,Pioneer Canvas Tote,2026-01-29,Shipped,Failed,116.44
+ORD01040,CUST0123,PRD-047,Pioneer Trail Runner,2025-06-11,Delivered,Paid,150.31
+ORD01041,CUST0112,PRD-071,Summit Air Fryer,2026-05-21,Cancelled,Refunded,106.37
+ORD01042,CUST0040,PRD-106,Nova Crossbody Bag,2025-04-18,Returned,Refunded,40.82
+ORD01043,CUST0085,PRD-130,Lumen Resistance Band Set,2025-09-16,Delivered,Paid,184.94
+ORD01044,CUST0237,PRD-054,Coast Trail Runner,2026-01-26,Out for Delivery,Paid,66.79
+ORD01045,CUST0020,PRD-088,Atlas Gentle Cleanser,2025-01-11,Delivered,Failed,234.28
+ORD01046,CUST0238,PRD-065,Solace Air Fryer,2026-05-12,Processing,Failed,161.50
+ORD01047,CUST0225,PRD-119,Aster Laptop Sleeve,2025-05-24,Processing,Paid,148.24
+ORD01048,CUST0010,PRD-121,Nimbus Foam Roller,2025-04-13,Delivered,Pending,114.18
+ORD01049,CUST0087,PRD-046,Nova Trail Runner,2025-03-21,Shipped,Paid,124.38
+ORD01050,CUST0092,PRD-003,Orbit Studio Microphone,2025-08-10,Delivered,Paid,96.68
+ORD01051,CUST0025,PRD-009,Willow Portable Speaker,2026-06-20,Cancelled,Refunded,59.36
+ORD01052,CUST0003,PRD-027,Pioneer Rain Jacket,2025-02-19,Shipped,Paid,76.95
+ORD01053,CUST0123,PRD-097,Echo Gentle Cleanser,2025-07-24,Delivered,Failed,45.73
+ORD01054,CUST0173,PRD-024,Cedar Rain Jacket,2025-07-16,Processing,Paid,173.15
+ORD01055,CUST0086,PRD-017,Echo Noise-Canceling Headphones,2025-02-15,Shipped,Failed,141.15
+ORD01056,CUST0288,PRD-107,Pioneer Canvas Tote,2025-07-14,Out for Delivery,Pending,58.22
+ORD01057,CUST0062,PRD-160,Brook Bamboo Organizer,2025-08-26,Shipped,Paid,282.84
+ORD01058,CUST0206,PRD-055,Sage Training Shoe,2025-11-20,Processing,Paid,28.17
+ORD01059,CUST0143,PRD-004,Cedar Wireless Earbuds,2026-01-13,Shipped,Paid,73.92
+ORD01060,CUST0256,PRD-012,Meadow Studio Microphone,2025-04-15,Processing,Paid,152.79
+ORD01061,CUST0129,PRD-138,Terra Resistance Band Set,2025-04-08,Delivered,Failed,57.28
+ORD01062,CUST0069,PRD-154,Coast Cast Iron Pan,2025-12-07,Shipped,Paid,345.10
+ORD01063,CUST0247,PRD-045,Solace Daily Runner,2025-03-11,Delivered,Failed,133.25
+ORD01064,CUST0196,PRD-086,Nova Gentle Cleanser,2026-06-08,Processing,Failed,75.32
+ORD01065,CUST0120,PRD-060,Brook Walking Shoe,2025-01-22,Out for Delivery,Paid,59.09
+ORD01066,CUST0220,PRD-158,Terra Bamboo Organizer,2025-09-07,Delivered,Paid,173.09
+ORD01067,CUST0152,PRD-159,Aster Cast Iron Pan,2025-07-26,Processing,Paid,170.74
+ORD01068,CUST0228,PRD-039,Aster Quilted Vest,2025-12-03,Shipped,Paid,77.02
+ORD01069,CUST0267,PRD-035,Sage Denim Jacket,2026-03-01,Shipped,Paid,171.52
+ORD01070,CUST0176,PRD-074,Coast Compact Blender,2025-09-06,Delivered,Paid,30.16
+ORD01071,CUST0114,PRD-053,Ember Trail Runner,2026-01-26,Delivered,Failed,106.91
+ORD01072,CUST0034,PRD-134,Coast Foam Roller,2026-05-19,Shipped,Paid,64.62
+ORD01073,CUST0105,PRD-018,Terra Studio Microphone,2025-05-09,Returned,Refunded,128.34
+ORD01074,CUST0121,PRD-024,Cedar Rain Jacket,2026-06-04,Processing,Paid,173.15
+ORD01075,CUST0102,PRD-021,Nimbus Fleece Hoodie,2025-09-08,Out for Delivery,Paid,77.74
+ORD01076,CUST0296,PRD-109,Willow Canvas Tote,2026-04-05,Processing,Paid,98.80
+ORD01077,CUST0185,PRD-052,Meadow Training Shoe,2026-02-12,Shipped,Pending,117.69
+ORD01078,CUST0080,PRD-097,Echo Gentle Cleanser,2026-05-09,Processing,Paid,91.46
+ORD01079,CUST0154,PRD-006,Nova Wireless Earbuds,2026-07-05,Delivered,Paid,19.25
+ORD01080,CUST0238,PRD-040,Brook Quilted Vest,2025-11-10,Delivered,Paid,111.82
+ORD01081,CUST0037,PRD-117,Echo Laptop Sleeve,2025-12-08,Shipped,Paid,216.74
+ORD01082,CUST0003,PRD-035,Sage Denim Jacket,2025-01-14,Delivered,Paid,171.52
+ORD01083,CUST0213,PRD-129,Willow Resistance Band Set,2026-02-09,Delivered,Paid,217.72
+ORD01084,CUST0210,PRD-096,Drift Hydrating Serum,2025-02-09,Shipped,Paid,99.42
+ORD01085,CUST0224,PRD-032,Meadow Quilted Vest,2025-09-19,Shipped,Paid,38.89
+ORD01086,CUST0030,PRD-090,Lumen Gentle Cleanser,2026-01-30,Out for Delivery,Paid,175.53
+ORD01087,CUST0186,PRD-109,Willow Canvas Tote,2025-01-29,Delivered,Paid,98.80
+ORD01088,CUST0131,PRD-038,Terra Rain Jacket,2025-09-11,Shipped,Paid,47.30
+ORD01089,CUST0007,PRD-155,Sage Ceramic Mug Set,2025-04-30,Delivered,Paid,60.37
+ORD01090,CUST0042,PRD-024,Cedar Rain Jacket,2026-06-15,Delivered,Failed,346.30
+ORD01091,CUST0130,PRD-049,Willow Walking Shoe,2025-11-06,Cancelled,Refunded,108.76
+ORD01092,CUST0158,PRD-129,Willow Resistance Band Set,2026-02-26,Returned,Refunded,217.72
+ORD01093,CUST0074,PRD-023,Orbit Fleece Hoodie,2025-10-03,Processing,Paid,90.86
+ORD01094,CUST0004,PRD-054,Coast Trail Runner,2025-06-22,Returned,Refunded,66.79
+ORD01095,CUST0269,PRD-126,Nova Yoga Mat,2026-03-03,Processing,Paid,97.82
+ORD01096,CUST0096,PRD-074,Coast Compact Blender,2025-05-18,Delivered,Paid,30.16
+ORD01097,CUST0231,PRD-051,Summit Training Shoe,2026-08-04,Out for Delivery,Paid,130.76
+ORD01098,CUST0099,PRD-055,Sage Training Shoe,2025-09-23,Processing,Paid,28.17
+ORD01099,CUST0086,PRD-105,Solace Travel Backpack,2025-03-23,Out for Delivery,Failed,69.70
+ORD01100,CUST0176,PRD-076,Drift Coffee Grinder,2025-01-31,Processing,Paid,23.64
+ORD01101,CUST0005,PRD-150,Lumen Cast Iron Pan,2025-03-04,Shipped,Paid,109.98
+ORD01102,CUST0050,PRD-069,Willow Coffee Grinder,2025-08-05,Delivered,Paid,130.12
+ORD01103,CUST0249,PRD-134,Coast Foam Roller,2026-04-30,Delivered,Paid,64.62
+ORD01104,CUST0162,PRD-087,Pioneer Vitamin C Set,2025-09-03,Delivered,Paid,22.26
+ORD01105,CUST0183,PRD-093,Ember Gentle Cleanser,2025-12-05,Delivered,Paid,67.27
+ORD01106,CUST0072,PRD-026,Nova Fleece Hoodie,2025-01-27,Processing,Failed,116.26
+ORD01107,CUST0189,PRD-155,Sage Ceramic Mug Set,2026-04-08,Processing,Paid,60.37
+ORD01108,CUST0097,PRD-159,Aster Cast Iron Pan,2025-01-04,Delivered,Failed,170.74
+ORD01109,CUST0167,PRD-083,Orbit Gentle Cleanser,2026-03-31,Processing,Paid,163.59
+ORD01110,CUST0179,PRD-060,Brook Walking Shoe,2026-03-15,Delivered,Paid,59.09
+ORD01111,CUST0151,PRD-122,Harbor Insulated Bottle,2025-07-19,Returned,Failed,300.30
+ORD01112,CUST0066,PRD-037,Echo Fleece Hoodie,2026-05-25,Delivered,Failed,125.23
+ORD01113,CUST0087,PRD-023,Orbit Fleece Hoodie,2026-04-02,Shipped,Paid,181.72
+ORD01114,CUST0109,PRD-030,Lumen Denim Jacket,2025-06-24,Out for Delivery,Paid,58.82
+ORD01115,CUST0083,PRD-023,Orbit Fleece Hoodie,2025-12-01,Processing,Refunded,90.86
+ORD01116,CUST0244,PRD-099,Aster Night Cream,2025-05-07,Delivered,Paid,123.48
+ORD01117,CUST0047,PRD-035,Sage Denim Jacket,2025-12-07,Cancelled,Refunded,343.04
+ORD01118,CUST0194,PRD-058,Terra Daily Runner,2026-01-26,Returned,Paid,102.80
+ORD01119,CUST0115,PRD-144,Cedar Bamboo Organizer,2025-09-23,Returned,Refunded,169.30
+ORD01120,CUST0097,PRD-030,Lumen Denim Jacket,2025-04-29,Shipped,Paid,58.82
+ORD01121,CUST0296,PRD-147,Pioneer Glass Storage Set,2025-01-02,Shipped,Failed,324.12
+ORD01122,CUST0217,PRD-080,Brook Air Fryer,2025-11-24,Processing,Paid,197.70
+ORD01123,CUST0267,PRD-094,Coast Gentle Cleanser,2025-08-16,Delivered,Refunded,74.06
+ORD01124,CUST0162,PRD-028,Atlas Denim Jacket,2025-05-29,Shipped,Paid,255.96
+ORD01125,CUST0076,PRD-076,Drift Coffee Grinder,2025-10-18,Delivered,Paid,47.28
+ORD01126,CUST0164,PRD-038,Terra Rain Jacket,2025-11-13,Delivered,Pending,47.30
+ORD01127,CUST0111,PRD-129,Willow Resistance Band Set,2026-05-22,Returned,Refunded,217.72
+ORD01128,CUST0079,PRD-075,Sage Air Fryer,2025-08-04,Delivered,Paid,172.35
+ORD01129,CUST0250,PRD-058,Terra Daily Runner,2026-02-06,Delivered,Paid,102.80
+ORD01130,CUST0012,PRD-077,Echo Coffee Grinder,2026-07-16,Returned,Refunded,171.81
+ORD01131,CUST0201,PRD-101,Nimbus Canvas Tote,2026-02-05,Shipped,Paid,57.67
+ORD01132,CUST0281,PRD-019,Aster Studio Microphone,2026-02-08,Delivered,Paid,29.06
+ORD01133,CUST0156,PRD-025,Solace Denim Jacket,2026-04-14,Processing,Pending,177.15
+ORD01134,CUST0150,PRD-042,Harbor Training Shoe,2025-05-29,Delivered,Paid,185.58
+ORD01135,CUST0186,PRD-054,Coast Trail Runner,2025-04-15,Shipped,Paid,66.79
+ORD01136,CUST0029,PRD-038,Terra Rain Jacket,2025-04-09,Shipped,Refunded,47.30
+ORD01137,CUST0061,PRD-092,Meadow Vitamin C Set,2026-06-12,Returned,Refunded,99.46
+ORD01138,CUST0126,PRD-087,Pioneer Vitamin C Set,2025-02-04,Delivered,Refunded,44.52
+ORD01139,CUST0193,PRD-031,Summit Rain Jacket,2025-04-02,Shipped,Paid,166.51
+ORD01140,CUST0228,PRD-119,Aster Laptop Sleeve,2026-01-12,Delivered,Paid,148.24
+ORD01141,CUST0261,PRD-003,Orbit Studio Microphone,2025-08-19,Processing,Paid,193.36
+ORD01142,CUST0141,PRD-006,Nova Wireless Earbuds,2025-04-07,Delivered,Refunded,38.50
+ORD01143,CUST0153,PRD-152,Meadow Ceramic Mug Set,2026-08-09,Processing,Paid,95.86
+ORD01144,CUST0208,PRD-033,Ember Denim Jacket,2025-01-21,Processing,Paid,149.74
+ORD01145,CUST0033,PRD-101,Nimbus Canvas Tote,2026-06-16,Delivered,Paid,115.34
+ORD01146,CUST0107,PRD-150,Lumen Cast Iron Pan,2025-05-01,Delivered,Pending,109.98
+ORD01147,CUST0285,PRD-047,Pioneer Trail Runner,2026-04-03,Delivered,Paid,150.31
+ORD01148,CUST0083,PRD-081,Nimbus Night Cream,2025-03-31,Processing,Paid,132.05
+ORD01149,CUST0064,PRD-144,Cedar Bamboo Organizer,2026-06-03,Shipped,Pending,169.30
+ORD01150,CUST0001,PRD-077,Echo Coffee Grinder,2025-09-12,Shipped,Paid,343.62
+ORD01151,CUST0274,PRD-077,Echo Coffee Grinder,2026-04-01,Processing,Refunded,171.81
+ORD01152,CUST0276,PRD-036,Drift Rain Jacket,2026-06-07,Delivered,Paid,43.10
+ORD01153,CUST0122,PRD-054,Coast Trail Runner,2025-02-07,Delivered,Paid,66.79
+ORD01154,CUST0069,PRD-049,Willow Walking Shoe,2026-07-20,Processing,Failed,54.38
+ORD01155,CUST0039,PRD-056,Drift Trail Runner,2026-07-18,Delivered,Paid,268.80
+ORD01156,CUST0205,PRD-066,Nova Coffee Grinder,2026-04-13,Shipped,Paid,59.04
+ORD01157,CUST0275,PRD-022,Harbor Fleece Hoodie,2025-07-28,Returned,Refunded,117.63
+ORD01158,CUST0191,PRD-019,Aster Studio Microphone,2026-08-01,Delivered,Paid,29.06
+ORD01159,CUST0162,PRD-131,Summit Foam Roller,2026-03-21,Delivered,Paid,116.83
+ORD01160,CUST0139,PRD-098,Terra Hydrating Serum,2025-05-08,Processing,Paid,151.69
+ORD01161,CUST0169,PRD-137,Echo Foam Roller,2025-04-02,Processing,Paid,169.15
+ORD01162,CUST0141,PRD-093,Ember Gentle Cleanser,2025-01-11,Cancelled,Paid,67.27
+ORD01163,CUST0054,PRD-026,Nova Fleece Hoodie,2025-05-07,Shipped,Refunded,116.26
+ORD01164,CUST0049,PRD-045,Solace Daily Runner,2026-06-26,Delivered,Failed,266.50
+ORD01165,CUST0051,PRD-090,Lumen Gentle Cleanser,2025-02-19,Delivered,Failed,175.53
+ORD01166,CUST0177,PRD-044,Cedar Walking Shoe,2026-06-29,Shipped,Pending,26.45
+ORD01167,CUST0066,PRD-142,Harbor Cast Iron Pan,2025-09-23,Delivered,Pending,128.48
+ORD01168,CUST0074,PRD-003,Orbit Studio Microphone,2026-01-23,Delivered,Paid,96.68
+ORD01169,CUST0128,PRD-146,Nova Cast Iron Pan,2026-03-05,Delivered,Paid,110.01
+ORD01170,CUST0258,PRD-118,Terra Canvas Tote,2025-10-21,Processing,Refunded,198.02
+ORD01171,CUST0157,PRD-071,Summit Air Fryer,2025-03-31,Returned,Refunded,106.37
+ORD01172,CUST0041,PRD-079,Aster Coffee Grinder,2025-03-20,Shipped,Paid,68.93
+ORD01173,CUST0044,PRD-062,Harbor Electric Kettle,2025-10-20,Returned,Refunded,39.61
+ORD01174,CUST0261,PRD-142,Harbor Cast Iron Pan,2025-05-20,Cancelled,Paid,128.48
+ORD01175,CUST0208,PRD-123,Orbit Insulated Bottle,2025-01-15,Out for Delivery,Paid,112.56
+ORD01176,CUST0218,PRD-158,Terra Bamboo Organizer,2026-07-02,Processing,Pending,173.09
+ORD01177,CUST0230,PRD-089,Willow Vitamin C Set,2025-06-22,Shipped,Paid,103.16
+ORD01178,CUST0069,PRD-135,Sage Resistance Band Set,2026-06-11,Cancelled,Refunded,65.05
+ORD01179,CUST0088,PRD-091,Summit Night Cream,2026-01-18,Returned,Refunded,77.58
+ORD01180,CUST0149,PRD-029,Willow Denim Jacket,2025-11-03,Shipped,Paid,28.68
+ORD01181,CUST0112,PRD-124,Cedar Resistance Band Set,2025-11-09,Shipped,Paid,269.74
+ORD01182,CUST0250,PRD-132,Meadow Foam Roller,2025-02-28,Delivered,Paid,108.86
+ORD01183,CUST0182,PRD-092,Meadow Vitamin C Set,2025-04-20,Processing,Paid,99.46
+ORD01184,CUST0182,PRD-002,Harbor Wireless Earbuds,2025-01-10,Shipped,Paid,86.40
+ORD01185,CUST0211,PRD-026,Nova Fleece Hoodie,2025-05-07,Out for Delivery,Paid,58.13
+ORD01186,CUST0116,PRD-125,Solace Insulated Bottle,2026-04-27,Processing,Pending,41.94
+ORD01187,CUST0275,PRD-102,Harbor Travel Backpack,2025-10-03,Shipped,Paid,43.61
+ORD01188,CUST0083,PRD-028,Atlas Denim Jacket,2025-05-24,Returned,Refunded,255.96
+ORD01189,CUST0057,PRD-091,Summit Night Cream,2025-07-14,Delivered,Paid,38.79
+ORD01190,CUST0017,PRD-073,Ember Coffee Grinder,2025-06-14,Processing,Paid,24.86
+ORD01191,CUST0216,PRD-051,Summit Training Shoe,2026-05-16,Returned,Refunded,130.76
+ORD01192,CUST0167,PRD-141,Nimbus Glass Storage Set,2026-02-14,Out for Delivery,Paid,95.35
+ORD01193,CUST0068,PRD-129,Willow Resistance Band Set,2025-04-23,Delivered,Paid,217.72
+ORD01194,CUST0257,PRD-028,Atlas Denim Jacket,2025-01-14,Delivered,Paid,127.98
+ORD01195,CUST0005,PRD-061,Nimbus Electric Kettle,2026-03-21,Processing,Pending,114.12
+ORD01196,CUST0127,PRD-123,Orbit Insulated Bottle,2025-06-06,Shipped,Paid,225.12
+ORD01197,CUST0135,PRD-131,Summit Foam Roller,2025-09-11,Processing,Paid,116.83
+ORD01198,CUST0258,PRD-110,Lumen Canvas Tote,2025-07-05,Processing,Paid,99.88
+ORD01199,CUST0118,PRD-049,Willow Walking Shoe,2025-05-04,Returned,Refunded,54.38
+ORD01200,CUST0075,PRD-034,Coast Denim Jacket,2026-03-13,Shipped,Paid,20.95

@@ -1,0 +1,2 @@
+Order Tracking
+Tracking becomes active within 24 hours after a shipment email is sent. Customers can use the tracking link in that email or their order number in the Northstar Market order page. A scan may not appear every day while a parcel is moving. Contact support if tracking has not changed for 3 business days after dispatch.

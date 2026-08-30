@@ -1,0 +1,2 @@
+Failed, Pending, and Duplicate Payments
+A failed payment does not create a confirmed order. A pending authorization normally clears or becomes a completed payment within 3-5 business days, depending on the bank. Customers who see two completed charges for one order should contact support with the order number and transaction dates; Northstar Market investigates and reverses a confirmed duplicate charge within 5-7 business days. Payment-related refunds return to the original payment method.

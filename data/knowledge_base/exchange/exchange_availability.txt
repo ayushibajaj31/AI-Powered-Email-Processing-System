@@ -1,0 +1,2 @@
+Exchange Availability and Exceptions
+A size, color, or product-variant exchange depends on live replacement stock. If the requested item is unavailable, customers may choose a different available variant, a comparable product with payment adjustment, store credit, or a refund under the return policy. For a damaged or wrong item, support can prioritize a replacement when stock exists. Replacement stock is not guaranteed until support confirms the exchange.
